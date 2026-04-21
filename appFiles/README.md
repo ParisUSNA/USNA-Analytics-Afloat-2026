@@ -1,7 +1,7 @@
 # APP Basics
 
 ## How to compile the app
-> ** Do not push the compiled app to git!!! **
+> **Do not push the compiled app to git!!!**
 1. Option 1: Standard/Quiet
     - make
 2. Option 2: Loud
