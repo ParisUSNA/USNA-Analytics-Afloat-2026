@@ -1,5 +1,3 @@
-# USNA-Analytics-Afloat-2026
-
 # Analytics Afloat
 ## Team:
 - MIDN Christopher Paris, USN
