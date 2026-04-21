@@ -1,0 +1,625 @@
+﻿"ID","WEEK OF","EVENT","LOCATION","MIN SHIP NOTICE NAME","CATEGORY","INSP TYPE","START DATE","END DATE","%23 OF IIs PLANNED","%23 OF DAYS","UPDATED","STATUS","SI","RECORDER","NNSY SUPPORT","TI LEAD ACTIVITY","SHIP DATA LIST","CASE FILES"
+"1","7/8/2024","CNRSE AUDIT (Tu-Th)","PENSACOLA, FL","CNRSE AUDIT (Tu-Th)","[""BOAT AUDIT""]","Boat Audit","7/8/2024","7/10/2024",,"3","ADDED 6/26/2024.",,"Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,,,,
+"2","7/15/2024","AUGUSTA, LCS 34, FCT (Su/M-F)","SAN DIEGO, CA","AUGUSTA, LCS 34, FCT (Su/M-F)","[""TRIAL""]","FCT","7/13/2024","7/18/2024",,"6",,,"Cummins, Christopher R CAPT USN MESG TWO (USA)","Sprayberry, Luther F CIV USN PRESINSURV VA BCH VA (USA)","Y","[""NSWCPD""]","LCS 34","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS34_AUGUSTA?csf=1&web=1&e=f0QTC9"
+"3","7/15/2024","IWO JIMA, LHD 7, PST (POST SHIPYARD TRIAL/REINTEGRATION MI) (Su/M-F)","NORFOLK, VA","IWO JIMA, LHD 7, PST (POST SHIPYARD TRIAL/REINTEGRATION MI) (Su/M-F)","[""SURF""]","PST/REINT","7/13/2024","7/18/2024",,"6","-UPDATE 11 JUN 24: CHANGED TO POST SHIPYARD TRIAL/REINTEGRATION MI.
+
+3/16/22 resched. 9/14/21 placed in TBD status, 6/29/21 homeport change, 9/18/20 Resched. 1/24/20 Resched.  12/13/20 Resched frm JUN to OCT, 9/3/19 resched, changed port","[""RESCH""]","Cummins, Christopher R CAPT USN MESG TWO (USA)","Gilfillan, Thomas P CTR USN (USA)","Y","[""MARMC""]","LHD 7","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LHD%20CASE/LHD7_IWO_JIMA?csf=1&web=1&e=F0jzKG"
+"4","7/15/2024","T-AKR, SMART (15-19JUL)","NORFOLK, VA","SODERMAN T-AKR 317, SMART (15-19JUL)","[""MSC""]","SMART","7/14/2024","7/18/2024",,"5","ADDED 6/26/2024.",,"Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)",,,,"T-AKR 317",
+"5","7/14/2024","SSGN (MI) (Tu-F)","KINGS BAY, GA","Florida SSGN 728 (MI) (Tu-F)","[""SUB""]","MI","7/14/2024","7/17/2024",,"4","ADDED 7/24/24.",,"Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""SERMC""]","SSGN 728","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSGN/SSGN%20728?csf=1&web=1&e=QY78C9"
+"6","7/15/2024","MSRON 10 X 5, MI (Tu-Th)","LITTLE CREEK, VA","MSRON 10 X 5, MI (Tu-Th)","[""B&C""]","B&C MI","7/15/2024","7/17/2024",,"3","<p>Added 6/15/23.<br></p>",,"Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,,,,
+"7","7/15/2024","SSN, MI (Tu-F)","GROTON, CT","NEWPORT NEWS SSN 750, MI (Tu-F)","[""SUB""]","MI","7/15/2024","7/18/2024",,"4","<p>​-UPDATE 12/5/23&#58; Rescheduled to week of 15 JUL 24.<br></p><p>Added 6/23/23.<br></p>","[""RESCH""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""RSG GROTON""]","SSN 750","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/SSN%20750%20(MI)?csf=1&web=1&e=JuU515"
+"8","7/22/2024","YT 810/811/812, MI (M-F)","SILVERDALE, WA","YT 810/811/812, MI (M-F)","[""B&C""]","B&C MI","7/21/2024","7/25/2024",,"5","-UPDATE 7/3/24: RESCHEDULED TO WEEK OF 22 JUL 24.
+
+<p>​ADDED 2/14/24.<br></p>","[""RESCH""]","Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,,,,
+"9","7/22/2024","TBD - LCS, MI (Tu-F)","SAN DIEGO, CA","OMAHA LCS 12, MI (Tu-F)","[""SURF""]","MI","7/22/2024","7/25/2024",,"4","<p>​-UPDATE 4/3/24&#58; DELETED FROM INSURV SCHEDULE, PLACED IN TBD STATUS DUE TO UNDERGOING RESCHEDULING EFFORTS.<br></p><p>Added 12 DEC 23.<br></p>","[""TBD""]",,,"Y","[""SWRMC""]","LCS 12","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS12_OMAHA?csf=1&web=1&e=PmedFO"
+"10","7/22/2024","TBD - LCS, MI (Tu-F)","SAN DIEGO, CA","SAVANNAH LCS 28, MI (Tu-F)","[""SURF""]","MI","7/22/2024","7/25/2024",,"4","<p>-UPDATE 4/3/2024&#58; DELETED FROM INSURV SCHEDULE, PLACED IN TBD STATUS DUE TO UNDERGOING RESCHEDULING EFFORTS.<br></p><p>​Added 12/12/23.<br></p>","[""TBD""]",,,,"[""SWRMC""]","LCS 28","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS28_SAVANNAH?csf=1&web=1&e=1q4MNU"
+"11","7/22/2024","TBD - YRBM 58, AT (Tu-Th)","MORGAN CITY, LA","YRBM 58, AT (Tu-Th)","[""TRIAL""]","AT","7/22/2024","7/24/2024",,"3","<p>-UPDATE 3/26/24&#58; DELETED FROM INSURV SCHEDULE, PLACED IN TBD STATUS DUE TO UNDERGOING RESCHEDULING EFFORTS.<br></p><p>-​UPDATE 1/31/24&#58; RESCHEDULED TO WEEK OF 22 JUL 24.<br></p><p>UPDATE 1/16/24&#58; DELETED FROM INSURV SCHEDULE, PLACED IN TBD STATUS DUE TO UNDERGIONG RESCHEDULING EFFORTS.<br></p>","[""TBD""]","Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)",,,"[""NSWCPD""]",,
+"12","7/22/2024","YC 1598, MI (W)","NORFOLK, VA","YC 1598, MI (W)","[""B&C""]","B&C MI","7/23/2024","7/23/2024",,"1","-UPDATE 7/3/24: RESCHEDULED TO WEEK OF 22 JUL 24 (WEDNESDAY ONLY).
+
+-UPDATE 6/26/2024: DELETED FROM INSURV SCHEDULE.
+
+<p>​-UPDATE 2/7/24&#58; RESCHEDULED TO WEEK OF 15 JUL 24.<br></p>","[""RESCH""]","Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,,,,
+"13","7/22/2024","T-AKE, SMART (26-30 JUL)","CHINHAE, SK","LEWIS AND CLARK T-AKE 1, SMART (26-30 JUL)","[""MSC""]","SMART","7/25/2024","7/29/2024",,"5","<p>-UPDATE 5/7/24&#58; LOCATION CHANGED TO CHINHAE, SK.<br></p><p>-UPDATE 3/13/24&#58; RESCHEDULED TO WEEK OF 22 JUL 24, LOCATION CHANGED TO TBD C7F.<br></p><p>​Added 8/3/23<br></p>","[""RESCH""]","Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)",,,,"T-AKE 1",
+"14","7/29/2024","Beloit LCS 29 (I&U) (M-W)","MARINETTE, WI","Beloit LCS 29 (I&U) (M-W)","[""TRIAL""]","I&U","7/28/2024","7/30/2024",,"3","ADDED 7/12/24.",,"Evans, Paul C CIV USN PRESINSURV VA BCH VA (USA)",,,"[""NSWCPD""]","LCS 29","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS29_BELOIT?csf=1&web=1&e=pvUUXX"
+"15","7/29/2024","APL 45, APL 58, YRBM 28, MI (Tu-Th)","NORFOLK, VA","APL 45, APL 58, YRBM 28, MI (Tu-Th)","[""B&C""]","B&C MI","7/29/2024","7/31/2024",,"3","<p>​-UPDATE 4/3/24&#58; REMOVED YRBM 23 AND YRBM 24.<br></p><p>-UPDATE 3/26/24&#58; REMOVED YRBM 41.<br></p>",,"Cleary, Brandon J LCDR USN PRESINSURV VA BCH VA (USA)",,"Y",,,
+"16","7/29/2024","ACU 5 - LCAC 27/52, MI (Tu-Th)","CAMP PENDLETON, CA","ACU 5 - LCAC 27/52, MI (Tu-Th)","[""B&C""]","B&C MI","7/29/2024","7/31/2024",,"3","<p>​ADDED 4/9/2024.<br></p>",,"Olson, Timothy M CDR USN PRESINSURV VA BCH VA (USA)",,,,,
+"17","7/29/2024","SSN, MI (Tu-F)","GROTON, CT","DEL - SOUTH DAKOTA SSN 790, MI (Tu-F)","[""SUB""]","MI","7/29/2024","8/1/2024",,"4","-UPDATE 7/17/24: DELETED FROM INSURV SCHEDULE.
+
+-UPDATE 6/26/2024: Placed in TBD status.
+
+<p>​Added 10/24/2023.<br></p>","[""DEL""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""RSG GROTON""]","SSN 790","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/FY25%20Case%20Files/FY25%20-%20SSN%20790%20(MI)?csf=1&web=1&e=c4ccQc"
+"18","8/12/2024","MSRON 1 X 9, MI (Tu-Th)","SAN DIEGO, CA","MSRON 1 X 9, MI (Tu-Th)","[""B&C""]","B&C MI","8/12/2024","8/14/2024",,"3","<p>​-UPDATE 1/31/24&#58; RESCHEDULED TO WEEK OF 12 AUG 24.<br></p><p>Added 8/31/23.<br></p>","[""RESCH""]","Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,,,,
+"19","8/12/2024","DDG FLT IIA, MI (Tu-F)","SAN DIEGO, CA","GRIDLEY DDG 101, MI (Tu-F)","[""SURF""]","MI (MSSI)","8/12/2024","8/15/2024",,"4","-UPDATE 7/3/24: RESCHEDULED FROM M-Tu TO Tu-F.
+
+<p>-UPDATE 12/14/23&#58; LOCATION CHANGED TO SAN DIEGO, CA.<br></p><p>​-UPDATE 7/19/23&#58; Rescheduled to week of 12 AUG 24.<br></p><p>Added 3/31/23.<br></p>","[""RESCH""]","Cummins, Christopher R CAPT USN MESG TWO (USA)","Jones, Kevin A CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","DDG 101","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG101_GRIDLEY?csf=1&web=1&e=YJNj5e"
+"20","8/12/2024","YC 1623, YRBM 31, YRBM 50, MI (Tu-Th)","BANGOR, WA","YC 1623, YRBM 31, YRBM 50, MI (Tu-Th)","[""B&C""]","B&C MI","8/12/2024","8/14/2024",,"3","-UPDATE 7/3/24: ADDED YC 1623.
+
+<p>​UPDATE 1/31/24&#58; REMOVED APL 62 AND YRBM 30.<br></p><p>UPDATE 1/11/24&#58; REMOVED&#160;YC 1675.<br></p>",,"Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,"Y",,,
+"21","8/12/2024","T-AK, SMART (16-21AUG)","SAIPAN","1ST LT JACK LUMMUS, T-AK 3011, SMART (16-21AUG)","[""MSC""]","SMART","8/15/2024","8/20/2024",,"6","-UPDATE 8/1/24: Rescheduled to 16-21 AUG 24, location confirmed for Saipan.
+
+<p>-UPDATE 6/4/24&#58; LOCATION CHANGED TO GUAM/SAIPAN, RESCHEDULED TO 11-16 AUG 24.</p><p>​-UPDATE 5/7/24&#58; LOCATION CHANGED TO TBD C7F.<br></p><p>Added 8/3/23<br></p>","[""RESCH""]","Byrd, Nathaniel J CDR USN PRESINSURV VA BCH VA (USA)",,,,"T-AK 3011",
+"22","8/19/2024","BELOIT LCS 29, AT (Su/M-F)","MARINETTE, WI","BELOIT LCS 29, AT (Su/M-F)","[""TRIAL""]","AT","8/17/2024","8/22/2024",,"6","UPDATE 7/3/24: Rescheduled to week of 19 AUG 24.","[""RESCH""]","Herrmann, William Carl (Will) CAPT USN PRESINSURV VA BCH VA (USA)","Meckley, Sean S CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","LCS 29","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS29_BELOIT?csf=1&web=1&e=I5yEZ1"
+"23","8/19/2024","SSN, MI (Tu-F)","SAN DIEGO, CA","SANTA FE SSN 763, MI (Tu-F)","[""SUB""]","MI","8/19/2024","8/22/2024",,"4","-UPDATE 6/11/24: RESCHEDULED TO WEEK OF 19 AUG 24.
+
+<p>​-UPDATE 4/24/24&#58; DELETED FROM INSURV SCHEDULE, PLACED IN TBD STATUS DUE TO UNDERGOING RESCHEDULING EFFORTS.<br></p><p>Added 10/24/23&#58;<br></p>","[""TBD""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""SWRMC""]","SSN 763","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/SSN%20763?csf=1&web=1&e=F955CJ"
+"24","8/19/2024","DDG FLT I, MI (Tu-F)","NORFOLK, VA ","GONZALEZ, DDG 66, MI (Tu-F)","[""SURF""]","MI (MSSI)","8/19/2024","8/22/2024",,"4","<div>-UPDATE 1/23/24&#58; UPDATED DAYS OF THE INSPECTION.<br></div><div><br></div>-UPDATE 11/25/22&#58; Added days of the week.<div>7/20/22 resched. 3/16/22 Add</div>","[""RESCH""]","Cummins, Christopher R CAPT USN MESG TWO (USA)","Gilfillan, Thomas P CTR USN (USA)","Y","[""MARMC""]","DDG 66","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG66_GONZALEZ?csf=1&web=1&e=m8uWaG"
+"25","8/19/2024","DDG, MI (Tu-F)","NORFOLK, VA","MAHAN DDG 72, MI (Tu-F)","[""SURF""]","MI (MSSI)","8/19/2024","8/22/2024",,"4","<p>​ADDED 1/23/24.<br></p>",,"Talaga, Michael T CIV USN PRESINSURV VA BCH VA (USA)","Shalifoe, Koko M CTR USN PRESINSURV VA BCH VA (USA)","Y","[""MARMC""]","DDG 72","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG72_MAHAN?csf=1&web=1&e=qmxhUi"
+"26","8/26/2024","IX 310, YC 1069, YC 1644, MI (Tu-Th)","DRESDEN, NY","IX 310, YC 1069, YC 1644, MI (Tu-Th)","[""B&C""]","B&C MI","8/26/2024","8/28/2024",,"3",,,"Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,"Y",,,
+"27","8/26/2024","DDG FLT IIA, MI (Tu-F)","SAN DIEGO, CA","PREBLE DDG 88, MI (Tu-F)","[""SURF""]","MI (MSSI)","8/26/2024","8/29/2024",,"4","-UPDATE 7/3/24: DAYS CHANGED FROM M-Th TO Tu-F.
+
+<p>-UPDATE 4/30/24&#58; RESCHEDULED TO WEEK OF 26 AUG 24.<br></p><p>-UPDATE 3/31/23&#58; Rescheduled to week of 10 JUN 24.<br></p><p>5/19/22 Added<br></p>","[""RESCH""]","Herrmann, William Carl (Will) CAPT USN PRESINSURV VA BCH VA (USA)","Jones, Kevin A CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","DDG 88","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG88_PREBLE?csf=1&web=1&e=3BshMd"
+"28","9/2/2024","ACU 4 - LCAC 41, LCAC 55, MI (Tu-Th)","NORFOLK, VA","ACU 4 - LCAC 41, LCAC 55, MI (Tu-Th)","[""B&C""]","B&C MI","9/2/2024","9/4/2024",,"3","ADDED 6/11/24.",,"Olson, Timothy M CDR USN PRESINSURV VA BCH VA (USA)",,,,,
+"29","9/2/2024","DDG FLT II, MI (W-F)","NORFOLK, VA","PORTER DDG 78, MI (W-F)","[""SURF""]","MI","9/3/2024","9/5/2024",,"3","<p>​Added 2/17/23.<br></p>","[""RESCH""]","Cummins, Christopher R CAPT USN MESG TWO (USA)","Jones, Kevin A CTR USN PRESINSURV VA BCH VA (USA)","Y","[""MARMC""]","DDG 78","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG78_PORTER?csf=1&web=1&e=8AJzdB"
+"30","9/2/2024","Jack H. Lucas DDG 125 (SSGTG) (W-F)","San Diego, CA","Jack H. Lucas DDG 125 (SSGTG) (W-F)","[""TRIAL""]","SSGTG","9/3/2024","9/5/2024",,"3","Added 8/28/24",,"Evans, Paul C CIV USN PRESINSURV VA BCH VA (USA)",,,"[""NSWCPD""]","DDG 125","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG125_JACK_H_LUCAS?csf=1&web=1&e=yL941a"
+"31","9/2/2024","T-AGSE, SMART (5-8SEP)","KINGS BAY, GA","BLACK POWDER, T-AGSE 1, SMART (5-8SEP)","[""MSC""]","SMART","9/4/2024","9/7/2024",,"4","<p>-UPDATE 3/26/24&#58;&#160;RESCHEDULED TO WEEK OF 02 SEP 24.<br></p><p>​Added 8/3/23.<br></p>","[""RESCH""]","Wines, Caleb P CDR USN PRESINSURV VA BCH VA (USA)",,,,"T-AGSE 1",
+"32","9/8/2025","T-AKR, SMART (08-12SEP)","Saipan","Charlton T-AKR 314 (08-12SEP)","[""MSC""]","SMART","9/7/2024","9/11/2024",,"5","Added 8/1/24.",,,,,,"T-AKR 314",
+"33","9/9/2024","DEL - T-EPF, SMART (9-12SEP)","PEARL HARBOR, HI","FALL RIVER, T-EPF 4, SMART (9-12SEP)","[""MSC""]","SMART","9/8/2024","9/11/2024",,"4","-UPDATE 9/4/24: DELETED.
+
+<p>-UPDATE 3/26/24&#58; PLACED IN TBD STATUS DUE TO DELETION FROM INSURV SCHEDULE, MAY NOT BE RESCHEDULED.<br></p><p>-UPDATE 8/8/23&#58; Location changed to Pearl Harbor, HI​</p><p>Added 8/3/23<br></p>","[""DEL""]",,,,,"T-EPF 4",
+"34","9/9/2024","T-AGSE, SMART (10-13SEP)","KINGS BAY, GA","WESTWIND, T-AGSE 2, SMART (10-13SEP)","[""MSC""]","SMART","9/9/2024","9/12/2024",,"4","<p>​-UPDATE 3/26/24&#58; RESCHEDULED TO WEEK OF 09 SEP 24.<br></p><p>Added 8/3/23.<br></p>","[""RESCH""]","Wines, Caleb P CDR USN PRESINSURV VA BCH VA (USA)",,,,"T-AGSE 2",
+"35","9/9/2024","YRBM 57, AT (Tu-Th)","MORGAN CITY, LA","YRBM 57, AT (Tu-Th)","[""TRIAL""]","AT","9/9/2024","9/11/2024",,"3","-UPDATE 7/3/24: RESCHEDULED TO WEEK OF 09 SEP 24.
+
+<p>-UPDATE 3/26/24&#58; RESCHEDULED TO WEEK OF 22 JUL 24.<br></p><p>​-UPDATE 2/29/24&#58; RESCHEDULED TO WEEK OF 29 APR 24.<br></p><p>-UPDATE 11/21/23&#58; Rescheduled to week of 08 APR 24.<br></p>","[""RESCH""]","Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)","Meckley, Sean S CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]",,
+"36","9/9/2024","LCC, MI (Th-Sa)","YOKOSUKA, JP","BLUE RIDGE LCC 19, MI (Th-Sa)","[""SURF""]","MI","9/11/2024","9/13/2024",,"3","<p>​UPDATE 9/26/23&#58; Added days of the inspection.&#160;<br></p>",,"Talaga, Michael T CIV USN PRESINSURV VA BCH VA (USA)","Gilfillan, Thomas P CTR USN (USA)","Y","[""SRF""]","LCC 19","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCC%20CASE/LCC19_BLUERIDGE?csf=1&web=1&e=jZ5Egj"
+"37","9/16/2024","MCM, MI (M/Tu-Th)","SASEBO, JP","PIONEER, MCM 9, MI (M/Tu-Th)","[""SURF""]","MI","9/15/2024","9/18/2024",,"4","<p>​-UPDATE 9/26/23&#58; Added days of the inspection.<br></p><p>Added 7/26/23.<br></p>",,"Talaga, Michael T CIV USN PRESINSURV VA BCH VA (USA)","Gilfillan, Thomas P CTR USN (USA)","Y","[""SRF""]","MCM 9","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/MCM%20CASE/MCM09_PIONEER?csf=1&web=1&e=Ywrswk"
+"38","9/16/2024","YFN 1203, YFN 1204, YFN 1288, YR 87, YRBM 13. YRBM 14, YT 809, MI (Tu-Th)","PORTSMOUTH, NH","YFN 1203, YFN 1204, YFN 1288, YR 87, YT 809, MI (Tu-Th)","[""B&C""]","B&C MI","9/15/2024","9/19/2024",,"5","-UPDATE 7/25/24: LOCATION CHANGED TO PORTSMOUTH, NH.
+
+<p>-UPDATE 4/3/24&#58; ADDED YRBM 13 AND YRBM 14.<br></p><p>-UPDATE 3/26/24&#58; ADDED YR 87.<br></p><p>-UPDATE 2/14/24&#58; REMOVED YFNX 15.<br></p><p>​-UPDATE 2/14/24&#58; REMOVED YT 810, 811, 812.<br></p>",,"Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)",,"Y",,,
+"39","9/16/2024","John L. Canley ESB 6 (Sea Giraffe) (Tu)","SAN DIEGO, CA","John L. Canley ESB 6 (Sea Giraffe) (Tu)","[""TRIAL""]","RT","9/16/2024","9/16/2024",,"1","-UPDATE 8/28/2024: Rescheduled to week of 16 SEP 24.
+
+ADDED 7/25/24.",,"Peterson, Anna Logic LCDR USN NAVWAR SFA VA (USA)",,,"[""NSWCPD""]","ESB 6","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/ESB%20CASE/ESB6_CANLEY?csf=1&web=1&e=aIXMOZ"
+"40","9/23/2024","DEL - HARVEY MILK T-AO 206, FCT (Su/M-F)","NORFOLK, VA","DEL - HARVEY MILK T-AO 206, FCT (Su/M-F)","[""TRIAL""]","FCT","9/21/2024","9/26/2024",,"6","-UPDATE 8/28/24: Deleted from INSURV Schedule.
+
+<p>-UPDATE 9/26/23&#58; Rescheduled to week of 23 SEP 24, removed from TBD status.<br></p><p>-UPDATE 9/22/23&#58; Removed from schedule, placed in TBD status due to undergoing rescheduling efforts.<br></p><p>-UPDATE 8/21/23&#58; Rescheduled to week of 29 APR 24.<br></p><p>-UPDATE 7/26/23&#58; Rescheduled to week of 4/22/24.<br></p>","[""RESCH""]","Herrmann, William Carl (Will) CAPT USN PRESINSURV VA BCH VA (USA)",,"Y","[""NSWCPD""]","T-AO 206","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SMART%20CASE/T-AO/T-AO206_HARVEY_MILK?csf=1&web=1&e=sPDFjY"
+"41","9/23/2024","ARDM 5, MI (Tu-Th)","POINT LOMA, CA","ARDM 5, MI (Tu-Th)","[""B&C""]","MI","9/23/2024","9/25/2024",,"3","-UPDATE 9/17/24: rescheduled to week of 23 SEP 24. 
+
+<p>​Added 5/7/2024.<br></p>","[""RESCH""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,,,
+"42","9/23/2024","LCS, MI (Tu-Th)","SAN DIEGO, CA","TULSA LCS 16, MI (Tu-Th)","[""SURF""]","MI","9/23/2024","9/25/2024",,"3","-UPDATE 8/1/24: Changed days to Tu-Th, converted INSP TYPE to MI.
+
+<div>-UPDATE 4/2/24&#58; RESCHEDULED TO WEEK OF 23 SEP 24.<br></div><div><br></div><div>-UPDATE 3/31/24&#58; Rescheduled to week of 12 AUG 24.<br></div><div><br></div>9/1/22 Resched. 3/4/22 resched. 2/2/22 Added","[""RESCH""]","Cummins, Christopher R CAPT USN MESG TWO (USA)","Jones, Kevin A CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","LCS 16","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS16_TULSA?csf=1&web=1&e=daPKh7"
+"43","9/23/2024","YRBM 21, YRBM 41, MI (Tu-Th)","MAYPORT, FL","YRBM 21, YRBM 41, MI (Tu-Th)","[""B&C""]","B&C MI","9/23/2024","9/25/2024",,"3","-UPDATE 8/28/2024: removed YRBM 33 and 36, added YRBM 21.
+
+-UPDATE 6/26/2024: REMOVED YC 1584 AND YC 1667.
+
+<p>​-UPDATE 4/9/2024&#58; REMOVED YRBM 24 AND YRBM 42,&#160;ADDED YRBM 36.<br></p><p>-UPDATE 4/3/24&#58; ADDED YRBM 24.<br></p><p>-UPDATE 3/26/24&#58; ADDED YRBM 41.<br></p>",,"Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA);Cleary, Brandon J LCDR USN PRESINSURV VA BCH VA (USA)",,"Y",,,
+"44","9/23/2024","T-AKE, SMART (25-29SEP)","BUSAN, SK","SACAGAWEA, T-AKE 2, SMART (25-29SEP)","[""MSC""]","SMART","9/24/2024","9/28/2024",,"5","-UPDATE 9/4/2024: Rescheduled to week of 23 SEP 24.
+
+-UPDATE 7/8/24: LOCATION CHANGED TO BUSAN, SK.
+
+<p>​Added 8/3/23<br></p>","[""RESCH""]","Byrd, Nathaniel J CDR USN PRESINSURV VA BCH VA (USA);Olson, Timothy M CDR USN PRESINSURV VA BCH VA (USA)",,,,"T-AKE 2",
+"45","9/30/2024","T-AGOS, SMART","TBD WEST COAST","IMPECCABLE T-AGOS 23, SMART","[""MSC""]","SMART","9/29/2024","10/3/2024",,"5","<p>​ADDED 04/2/24.<br></p>",,,,,,"T-AGOS 23",
+"46","9/30/2024","DEL - T-AO, SMART (30SEP-4OCT)","TBD C7F","DEL - RAPPAHANOCK, T-AO 204, SMART (30SEP-4OCT)","[""MSC""]","SMART","9/29/2024","10/3/2024",,"5","-UPDATE 9/4/24: DELETED.
+
+<p>​​-UPDATE 12/5/23&#58; Deleted from INSURV Schedule, placed in TBD status due to undergiong rescheduling efforts.<br></p><p>Added 8/3/23<br></p>","[""DEL""]",,,,,"T-AO 204",
+"47","9/30/2024","YOS 34, YOS 38 (MI) (Tu-Th)","NORFOLK, VA","YOS 34, YOS 38 (MI) (Tu-Th)","[""B&C""]","B&C MI","9/30/2024","10/3/2024",,"4","ADDED 7/12/2024.",,,,,,,
+"48","10/7/2024","ROBERT F. KENNEDY T-AO 208, HVI/UNREP","SAN DIEGO, CA","ROBERT F. KENNEDY T-AO 208, HVI/UNREP","[""TRIAL""]","HVI/UNREP","10/6/2024","10/10/2024",,"5","-UPDATE 8/14/24: Rescheduled to week of 14 AUG 24.
+
+-UPDATE 7/25/24: RESCHEDULED TO WEEK OF 30 SEP 24.
+
+<p>​ADDED 1/31/24.<br></p>","[""RESCH""]","Evans, Paul C CIV USN PRESINSURV VA BCH VA (USA);Rose, Troy E CIV USN PRESINSURV VA BCH VA (USA)","Meckley, Sean S CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","T-AO 208","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SMART%20CASE/T-AO/T-AO208_ROBERT_F_KENNEDY?csf=1&web=1&e=aJ2H5e"
+"49","10/14/2024","ACU 2 - LCU 1663, MI (W-Th)","LITTLE CREEK, VA","ACU 2 - LCU 1663, MI (W-Th)","[""B&C""]","B&C MI","10/15/2024","10/16/2024",,"2","<p>​-UPDATE 8/25/23&#58; Added LCU undergoing inspection, rescheduled to 14 OCT 24.<br></p><p>Added 6/9/23.<br></p>","[""RESCH""]","Boyd, Thomas A III LT USN PRESINSURV VA BCH VA (USA)",,,,,
+"50","10/21/2024","LCAC 111, AT (M-Th)","NEW ORLEANS, LA","LCAC 111, AT (M-Th)","[""TRIAL""]","AT","10/20/2024","10/24/2024",,"5","-UPDATE 8/14/24: Rescheduled to week of 21 OCT 24.
+
+-UPDATE 7/3/24: RESCHEDULED TO WEEK OF 09 SEP 24.
+
+-UPDATE 6/26/2024: DELETED FROM SCHEDULE, UNDERGOING RESCHEDULING EFFORTS.
+
+<p>-UPDATE 5/29/24&#58; RESCHEDULED TO WEEK OF 12 AUG 24.</p><p>ADDED 1/31/24.<br></p>","[""RESCH""]","Olson, Timothy M CDR USN PRESINSURV VA BCH VA (USA)",,,"[""NSWCPD""]",,
+"51","10/21/2024","YC 1526, YC 1578,YC 1589, YC 1590, YC 1592, YC 1634, YC 1646, YON 314, YON 322, YON 325, YON 326, YRDM 9, YT 803, MI (M-F)","BREMERTON, WA","YC 1526, YC 1578,YC 1589, YC 1590, YC 1592, YC 1634, YC 1646, YON 314, YON 322, YON 325, YON 326, YRDM 9, YT 803, MI (M-F)","[""B&C""]","B&C MI","10/20/2024","10/24/2024",,"5","-UPDATE 8/20/24: Rescheduled to week of 21 OCT 24, executing M-F.
+
+-UPDATE 8/1/24: Removed YC 1674.
+
+-UPDATE 7/25/24: CHANGED DAYS TO SU-F, INSPECTION STARTS SU WEEK OF 14 OCT 24 (20 OCT 24).
+
+-UPDATE 7/3/24: ADDED YON 314.
+
+<p>​-UPDATE 4/9/2024&#58; ADDED YRDM 9.<br></p>",,"Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA);Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)",,"Y",,,
+"52","10/21/2024","SSN, MI (M-Th)","PEARL HARBOR, HI","Missouri SSN 780 (MI) (M-Th)","[""SUB""]","MI","10/20/2024","10/23/2024",,"4","-UPDATE 9/11/24: Days of the inspection changed to M-Th.
+
+-UPDATE 9/4/24: Rescheduled to week of 21 OCT 24.
+
+<p>-UPDATE 2/7/24&#58; RESCHEDULED TO WEEK OF 02 DEC 24.<br></p><p>​Added 11/2/2023.<br></p>","[""RESCH""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""HRMC""]","SSN 780","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/FY25%20Case%20Files/FY25%20-%20SSN%20780%20(MI)?csf=1&web=1&e=9kMerE"
+"53","10/28/2024","CVN, MI (M-F)","SAN DIEGO, CA","RONALD REAGAN CVN 76, MI (M-F)","[""SURF""]","MI","10/27/2024","10/31/2024",,"5","-UPDATE 9/4/2024: Inspection is now M-F.
+
+<p>-UPDATE 3/26/24&#58; RESCHEDULED TO WEEK OF 28 OCT 24.<br></p><p>-UPDATE 11/3/23&#58; Rescheduled to week of 02 DEC 24.<br></p><p>-UPDATE 3/3/23&#58; Rescheduled to 16 DEC 24; removed from TBD status.<br></p><p>​Added 11/25/22.<br></p>","[""RESCH""]","Concannon, Michael CAPT USN PRESINSURV VA BCH VA (USA)","Shalifoe, Koko M CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","CVN 76","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SMART%20CASE/T-AO/T-AO208_ROBERT_F_KENNEDY?csf=1&web=1&e=aJ2H5e"
+"54","10/28/2024","YD 249, YFNB 41, YRBM 35, MI (M-F)","GROTON, CT","YD 249, YFNB 41, YRBM 35, MI (M-F)","[""B&C""]","B&C MI","10/27/2024","10/31/2024",,"5","-UPDATE 9/25/24: Deleted ARDM 4.
+
+-UPDATE: 8/14/24: Inspection now M-F.
+
+-UPDATE 7/18/24: REMOVED YD 250.",,"Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,"Y",,,
+"55","10/28/2024","SSN (MI) (Tu-F)","NEW LONDON, CT","South Dakota SSN 790 (MI) (Tu-F)","[""SUB""]","MI","10/28/2024","10/31/2024",,"4","ADDED 7/24/24.",,"Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""RSG GROTON""]","SSN 790","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/FY25%20Case%20Files/FY25%20-%20SSN%20790%20(MI)?csf=1&web=1&e=8V3V7n"
+"56","11/4/2024","ROBERT F. KENNEDY T-AO 208, IT (Su/M-F)","SAN DIEGO, CA","ROBERT F. KENNEDY T-AO 208, IT (Su/M-F)","[""TRIAL""]","IT","11/2/2024","11/7/2024",,"6","-UPDATE 10/9/24: Rescheduled to week of 04 NOV 24.
+
+<p>​Added 10/17/2023.<br></p>","[""RESCH""]","Herrmann, William Carl (Will) CAPT USN PRESINSURV VA BCH VA (USA)","Meckley, Sean S CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","T-AO 208","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SMART%20CASE/T-AO/T-AO208_ROBERT_F_KENNEDY?csf=1&web=1&e=QikXvD"
+"57","11/4/2024","T-ARS (4-7 NOV)","Guam","Salvor T-ARS 52 (4-7 NOV)","[""MSC""]","SMART","11/3/2024","11/6/2024",,"4","-UPDATE 9/11/24: Rescheduled to week of 04 NOV 24, location changed to Guam.
+
+-UPDATE 8/1/24: Location changed to Pearl Harbor, HI.
+
+<p>​ADDED 4/2/24.<br></p>","[""RESCH""]","Byrd, Nathaniel J CDR USN PRESINSURV VA BCH VA (USA)",,,,"T-ARS 52",
+"58","11/4/2024","APL 67, YC 1675, MI (Tu-Th)","YOKOSUKA, JAPAN","APL 67, YC 1675, MI (Tu-Th)","[""B&C""]","B&C MI","11/4/2024","11/6/2024",,"3","<p>​-UPDATE 4/24/24&#58; REMOVED YRBM 25.<br></p><p>-UPDATE 4/2/24&#58; ADDED YRBM 25.<br></p><p>ADDED 1/11/24.<br></p>",,"Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,"Y",,,
+"59","11/4/2024","ACU 5 - LCAC 62 ESLEP (AT) (Tu-F)","Camp Pendleton, CA","ACU 5 - LCAC 62 ESLEP (AT) (Tu-F)","[""B&C""]","ESLEP AT","11/4/2024","11/7/2024",,"4","Added 10/9/24.",,"Olson, Timothy M CDR USN PRESINSURV VA BCH VA (USA)",,,"[""NSWCPD""]",,
+"60","11/4/2024","SSBN, MI (W-Sa)","BANGOR, WA","SSBN, MI (W-Sa)","[""SUB""]","MI","11/5/2024","11/8/2024",,"4","-UPDATE 11/6/24: Days changed to W-Sa.
+
+<p>-UPDATE 2/29/24&#58; ADDED MONDAY DUE TO DAY ZERO.<br></p><p>​-UPDATE 2/7/24&#58; RESCHEDULED TO WEEK OF 04 NOV 24.<br></p><p>ADDED 1/2/24.<br></p>","[""RESCH""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""NWRMC""]",,
+"61","11/11/2024","DEL - T-AKE, SMART (11-15NOV)","Subic Bay, PI","DEL - RICHARD E. BYRD, T-AKE 4, SMART (11-15NOV)","[""MSC""]","SMART","11/10/2024","11/14/2024",,"5","-UPDATE 10/29/24: Deleted from INSURV Schedule.
+
+-UPDATE 10/9/24: Dates changed to 11-15 NOV 24.
+
+-UPDATE 10/2/24: Rescheduled to week of 11 NOV 24.
+
+<p>​Added 8/3/23<br></p>","[""DEL""]","Wines, Caleb P CDR USN PRESINSURV VA BCH VA (USA)",,,,"T-AKE 4","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SMART%20CASE/T-AK_E_R/T-AKE4_BYRD?csf=1&web=1&e=uwBeUx"
+"62","11/11/2024","ACU 5 - LCAC 74/78, MI (Tu-Th)","CAMP PENDLETON, CA","ACU 5 - LCAC 74/78, MI (Tu-Th)","[""B&C""]","B&C MI","11/11/2024","11/13/2024",,"3","-UPDATE 9/25/24: Deleted LCAC 75, added LCAC 78.
+
+-UPDATE 9/11/24: Rescheduled to week of 11 NOV 24,
+
+<p>​ADDED 4/17/24.<br></p>","[""RESCH""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,,,
+"63","11/18/2024","HYMAN G. RICKOVER SSN 795, GMI (M-F)","GROTON, CT"," HYMAN G. RICKOVER SSN 795, GMI (M-F)","[""SUB""]","MI","11/17/2024","11/21/2024",,"5","-UPDATE 9/11/24: Rescheduled to week of 18 NOV 24.
+
+-UPDATE 9/4/2024: Placed in TBD status.
+
+<p>​ADDED 5/15/24.<br></p>","[""RESCH""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""RSG GROTON""]","SSN 795","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/SSN%20795?csf=1&web=1&e=BzRgpG"
+"64","11/18/2024","CVN, MI (M-Th)","SAN DIEGO, CA","NIMITZ CVN 68, MI (M-Th)","[""SURF""]","MI","11/17/2024","11/20/2024",,"4","-UPDATE 8/14/24: Changed days of the inspection to M-Th.
+
+<p>-UPDATE 11/3/23&#58; Rescheduled to week of 18 NOV 24.<br></p><p>​-UPDATE 3/3/23&#58; Rescheduled to week of 09 DEC 24.<br></p><p>Added 3/2/23.<br></p>","[""RESCH""]","Concannon, Michael CAPT USN PRESINSURV VA BCH VA (USA);Talaga, Michael T CIV USN PRESINSURV VA BCH VA (USA)","Shalifoe, Koko M CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","CVN 68","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/CVN%20CASE/CVN68_NIMITZ?csf=1&web=1&e=lMmP40"
+"65","11/18/2024","ARDM 4 (MI) (Tu-Th)","Groton, CT","ARDM 4 (MI) (Tu-Th)","[""B&C""]","B&C MI","11/18/2024","11/20/2024",,"3","Added 9/25/24.",,"Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,,,
+"66","11/25/2024","New Jersey SSN 796 (GMI) (M-Tu)","Norfolk, VA","New Jersey SSN 796 (GMI) (M-Tu)","[""SUB""]","GMI","11/24/2024","11/25/2024",,"2","-UPDATE 11/26/24: Rescheduled to week of 25 NOV 24.
+
+Added 10/9/24.","[""RESCH""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""NSWCPD""]","SSN 796","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/SSN%20796%20(CT)?csf=1&web=1&e=rTAbSh"
+"67","12/2/2024","LCAC 112, AT (M-Th)","NEW ORLEANS, LA","LCAC 112, AT (M-Th)","[""TRIAL""]","AT","12/1/2024","12/4/2024",,"4","-UPDATE 10/29/24: Removed from TBD status.
+
+-UPDATE 9/4/24: Placed in TBD status.
+
+UPDATE 8/14/24: Rescheduled to week of 02 DEC 24.
+
+UPDATE 7/17/24: RESCHEDULED TO WEEK OF 07 OCT 24.
+
+ADDED 7/3/2024.","[""RESCH""]","Seriki, Oluyemisi H CDR USN PRESINSURV VA BCH VA (USA)",,,"[""NSWCPD""]",,
+"68","12/2/2024","DDG FLT I, MI (Tu-F)","NORFOLK, VA","MITSCHER DDG 57, MI (Tu-F)","[""SURF""]","MI (MSSI)","12/2/2024","12/5/2024",,"4","<p>-UPDATE 4/3/24&#58; RESCHEDULED TO WEEK OF 02 DEC 24<br></p><p>-UPDATE 10/17/23&#58; Rescheduled to week of 04 NOV 24.<br></p><p>​Added 7/19/23.<br></p>","[""RESCH""]","Cummins, Christopher R CAPT USN MESG TWO (USA)","Gilfillan, Thomas P CTR USN (USA)","Y","[""MARMC""]","DDG 57","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG57_MITSCHER?csf=1&web=1&e=dgTCKT"
+"69","12/2/2024","CTG 56.7 X 4, MI (Tu-Th)","UAE","CTG 56.7 X 4, MI (Tu-Th)","[""B&C""]","B&C MI","12/2/2024","12/4/2024",,"3","-UPDATE 7/3/24: RESCHEDULED TO WEEK OF 02 DEC 24.
+
+<p>​Added 6/15/24<br></p>","[""RESCH""]","Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)",,,,,
+"70","12/2/2024","IOWA SSN 797, CT (F-M)","GROTON, CT","IOWA SSN 797, CT (F-M)","[""SUB""]","CT","12/5/2024","12/8/2024",,"4","-UPDATE 12/12/24: Days of the inspection changed to F-M.
+
+-UPDATE 11/19/24: Rescheduled to week of 02 DEC 24.
+
+-UPDATE 9/18/2024: Event remains in TBD status, event anticipated to occur between weeks of 04 NOV 24 and 15 NOV 24.
+
+-UPDATE 9/4/2024: Placed in TBD Status.
+
+ADDED 6/26/2024","[""RESCH""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""NSWCPD""]","SSN 797","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/SSN%20797%20(CT)?csf=1&web=1&e=K62beR"
+"71","12/9/2024","IX 554, YC 1632, YC 1660, YON 328, MI (M-Th)","PEARL HARBOR, HI","IX 554, YC 1632, YC 1660, YON 328, MI (M-Th)","[""B&C""]","B&C MI","12/8/2024","12/11/2024",,"4","-UPDATE 11/13/24: Changed days of the inspection to M-Th.
+
+-UPDATE 8/28/2024: Added YC 1660.",,"Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,"Y",,,
+"72","12/9/2024","SSN, MI (Tu-F)","GROTON, CT","CALIFORNIA SSN 781, MI (Tu-F)","[""SUB""]","MI","12/9/2024","12/12/2024",,"4","<p>-UPDATE 3/13/24&#58; RESCHEDULED TO WEEK OF 09 DEC 24.<br></p><p>-UPDATE 12/5/23&#58; Rescheduled to week of 10 JUN 24.<br></p><p>​-UPDATE 6/23/23&#58; Rescheduled to week of 15 APR 24.<br></p><p>Added 1/13/23.<br></p>","[""RESCH""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""RSG GROTON""]","SSN 781","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/FY25%20Case%20Files/FY25%20-%20SSN%20790%20(MI)?csf=1&web=1&e=8V3V7n"
+"73","12/9/2024","DDG (MI) (W-F)","YOKOSUKA, JAPAN","Higgins DDG 76 (MI) (W-F)","[""SURF""]","MI","12/10/2024","12/12/2024",,"3","-UPDATE 11/13/24: Days changed to W-F, dates corrected.
+
+-UPDATE 9/11/24: Days of the inspection changed to Tu-Th.
+
+-UPDATE 8/1/24: Days of the inspection changed to Tu-F.
+
+ADDED 7/24/24.","[""RESCH""]","Concannon, Michael CAPT USN PRESINSURV VA BCH VA (USA)",,"Y","[""SRF""]","DDG 76","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG76_HIGGINS?csf=1&web=1&e=VE9fCo"
+"74","12/16/2024","DDG FLT I, MI (M-W)","EVERETT, WA","JOHN S. MCCAIN DDG 56, MI (M-W)","[""SURF""]","MI","12/15/2024","12/17/2024",,"3","-UPDATE 8/1/24: Rescheduled to week of 16 DEC 24, changed days of the inspection to M-W.
+
+<p>​Added 12/12/23.<br></p>","[""RESCH""]","Talaga, Michael T CIV USN PRESINSURV VA BCH VA (USA)","Shalifoe, Koko M CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","DDG 56","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG56_JOHN_S_MCCAIN?csf=1&web=1&e=0i2AmQ"
+"75","12/16/2024","YRBM 8, YRBM 9, MI (W-F)","NORFOLK, VA","YRBM 8, YRBM 9, MI (W-F)","[""B&C""]","B&C MI","12/17/2024","12/19/2024",,"3","-UPDATE 12/19/24: Removed YD 250.
+
+-UPDATE 11/6/24: Deleted APL 32, now W-F.
+
+-UPDATE 7/25/24: RESCHEDULED TO WEEK OF 16 DEC 24.
+
+-UPDATE 7/18/24: YD 250 ADDED.​
+
+-UPDATE 4/3/24&#58; REMOVED APL 61, APL 68, IX 553, YC 1409, YC 1641, YD 257.","[""RESCH""]","Cleary, Brandon J LCDR USN PRESINSURV VA BCH VA (USA);Ozereko, Jarrod Micah CDR USN NIWC PACIFIC CA (USA)",,"Y",,,
+"76","1/6/2025","DEL - YTT 11, MI (Tu-Th)","KEYPORT, WA","DEL - YTT 11, MI (Tu-Th)","[""B&C""]","B&C MI","1/6/2025","1/8/2025",,"3","- 1/10/25: DELETED.
+
+-UPDATE 8/20/24: Rescheduled to week of 06 JAN 25.
+
+-UPDATE 8/14/24: Deleted from INSURV Schedule.
+
+-UPDATE 7/25/24: CHANGED DAYS OF THE INSPECTION TO TU-TH
+
+<p>-UPDATE 1/23/24&#58; RESCHEDULED TO WEEK OF 19 AUG 24.<br></p><p>-UPDATE 10/10/23&#58; Rescheduled to week of 25 MAR 24.<br></p><p>​-UPDATE 6/15/23&#58; Rescheduled to week of 11 MAR 24.<br></p><p>-UPDATE 3/31/23&#58; Rescheduled to week of 25 SEP 23.<br></p><p>8/9/22 resched.&#160;8/4/22 Added<br></p>","[""DEL""]","Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)","Medina, Christopher A CIV USN PRESINSURV VA BCH VA (USA)","Y",,,
+"77","1/6/2025","SBX, SMART (7-13JAN)","PEARL HARBOR, HI","SBX 1, SMART (7-13JAN)","[""MSC""]","SMART","1/6/2025","1/12/2025",,"7","-UPDATE 8/1/24: Rescheduled to week of 06 JAN 25.
+
+<p>-UPDATE 6/4/24&#58; RESCHEDULED TO WEEK OF 09 DEC 24, LOCATION CHANGED TO PEARL HARBOR, HI.</p><p>-UPDATE 5/7/24&#58; LOCATION CHANGED TO TBD LOCATION.<br></p><p>​ADDED 4/2/2024<br></p>","[""RESCH""]","Isaacson, Cary J CAPT USN PRESINSURV VA BCH VA (USA);Lensegrav, Craig T CDR USN PRESINSURV VA BCH VA (USA);Wines, Caleb P CDR USN PRESINSURV VA BCH VA (USA)",,,,,
+"78","1/6/2025","DEL - IX 536, MI (Tu-Th)","BREMERTON, WA","DEL - IX 536, MI (Tu-Th)","[""B&C""]","B&C MI","1/6/2025","1/8/2025",,"3","1/10/25: DELETED
+
+-UPDATE 8/20/24: Rescheduled to week of 06 JAN 25.
+
+-UPDATE 7/26/24: CHANGED DAYS OF THE INSPECTION.
+
+ADDED 7/3/24.","[""RESCH""]","Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)",,,,,
+"79","1/13/2025","IX 536, YC 1524, YC 1573, YC 1577, YC 1578, YFN 973, YFN 1274, YFNX 45, YFNX 46, MI (M-F)","BREMERTON, WA","IX 536, YC 1524, YC 1573, YC 1577, YC 1578, YFN 973, YFN 1274, YFNX 45, YFNX 46, MI (M-F)","[""B&C""]","B&C MI","1/12/2025","1/16/2025",,"5","-1/10/25: Re-added IX 536.
+
+-UPDATE 7/3/24: REMOVED IX 536, RESCHEDULED TO WEEK OF 13 JAN 25.
+
+<p>-UPDATE 5/29/24&#58; REMOVED YC 1674, AND YC 1663.</p><p>​-UPDATE 8/31/23&#58; Removed YC 800, YC 804, YC 1469,&#160;YC 1477, YC 1490, YC 1569, YC 1570,&#160;and&#160;YC 1571.<br></p>","[""RESCH""]","Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)","Manangan, Edgar F CIV USN PRESINSURV VA BCH VA (USA)","Y",,,
+"80","1/13/2025","T-AKR, SMART (13-17JAN)","Chinhae, SK","Dahl T-AKR 312 (13-17JAN)","[""MSC""]","SMART","1/12/2025","1/16/2025",,"5","-UPDATE 11/6/24: Location changed to Chinhae, SK.
+
+Added 7/31/24.",,"Wines, Caleb P CDR USN PRESINSURV VA BCH VA (USA)",,,,"T-AKR 312",
+"81","1/13/2025","DDG FLT IIA (MI) (Tu-Th)","SAN DIEGO, CA","Pinckney DDG 91 (MI) (Tu-Th)","[""SURF""]","MI","1/13/2025","1/15/2025",,"3","-UPDATE 9/11/24: Days of the inspection changed to Tu-Th.
+
+-UPDATE 8/1/24: Changed days of the inspection to Tu-F.
+
+<p>​-UPDATE 7/19/2023&#58; Rescheduled to week of 13 JAN 25.<br></p><p>Added 3/31/23.<br></p>","[""RESCH""]","Concannon, Michael CAPT USN PRESINSURV VA BCH VA (USA)","Jones, Kevin A CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","DDG 91","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG91_PINCKNEY?csf=1&web=1&e=FI1ar0"
+"82","1/13/2025","IX 553, YC 1409, YD 257, MI (Tu-Th)","NORFOLK, VA","IX 553, YC 1409, YD 257, MI (Tu-Th)","[""B&C""]","B&C MI","1/13/2025","1/15/2025",,"3","-UPDATE 11/19/24: Removed YC 1641.
+
+-UPDATE 7/3/24: RESCHEDULED TO WEEK OF 13 JAN 25.
+
+<p>​-UPDATE 4/3/24&#58; RESCHEDULED TO WEEK OF 20 JAN 25.<br></p>","[""RESCH""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,"Y",,,
+"83","1/27/2025","EODESU 1 Audit","San Diego, CA","EODESU 1 Audit","[""BOAT AUDIT""]","Boat Audit","1/26/2025","1/30/2025",,"5","Added 8/1/24.",,"Austin, Howard J Jr CWO5 USN PRESINSURV VA BCH VA (USA)",,,,,
+"84","1/27/2025","LHA (MI) (M-Th)","San Diego, CA","Tripoli LHA 7 (MI) (M-Th)","[""SURF""]","MI","1/26/2025","1/29/2025",,"4","-UPDATE 11/26/24: Days of the inspection now M-Th.
+
+Added 9/11/24.",,,"Shalifoe, Koko M CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","LHA 7","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LHA%20CASE/LHA7_TRIPOLI?csf=1&web=1&e=zxitO5"
+"85","1/6/2025","DEL - T-AKE, SMART (27-31JAN)","NORFOLK, VA","DEL - ROBERT E. PEARY, T-AKE 5, SMART, NORFOLK, VA (27-31JAN)","[""MSC""]","SMART","1/26/2025","1/30/2025",,"5","-1/22/25: DELETED.
+
+-UPDATE 1/10/25: Rescheduled to 27 JAN 25.
+
+-UPDATE 12/19/24: Placed in TBD status.
+
+-UPDATE 11/6/24: Rescheduled to week of 06 JAN 25.
+
+<p>- UPDATE 3/26/24&#58; RESCHEDULED TO WEEK OF 16 DEC 24.<br></p><p>-UPDATE 12/5/23&#58; Rescheduled to week of 15 APR 24.<br></p><p>​-UPDATE 11/21/23&#58; Rescheduled to week of 29 JAN 24.<br></p><p>8/29/22 Added<br></p>","[""DEL""]","Byrd, Nathaniel J CDR USN PRESINSURV VA BCH VA (USA)",,,,"T-AKE 5",
+"86","1/27/2025","SSN (MI) (Tu-F)","BANGOR, WA","SEAWOLF SSN 21 (MI) (Tu-F)","[""SUB""]","MI","1/27/2025","1/30/2025",,"4","-UPDATE 12/19/24: Shifted left several days, days changed to Tu-F.
+
+ADDED 7/24/24.",,"Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)","Arnette, Johnny M III LCDR USN PRESINSURV VA BCH VA (USA)",,"[""NWRMC""]","SSN 21","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/FY25%20Case%20Files/FY25%20-%20SSN%2021%20(MI)?csf=1&web=1&e=uI3or9"
+"87","2/3/2025","DEL - APALACHICOLA EPF 13, FCT (Su/M-F)","LITTLE CREEK, VA ","DEL - APALACHICOLA EPF 13, FCT (Su/M-F)","[""TRIAL""]","FCT","2/1/2025","2/6/2025",,"6","-1/22/25: DELETED
+
+- 1/10/25: Placed in TBD status.
+
+-UPDATE 10/9/24: Day zero changed to Su, Day 1-5 of the inspection now occuring 03-07 FEB 25.
+
+-UPDATE 6/26/24: RESCHEDULED TO WEEK OF 03 FEB 25.
+
+<p>-UPDATE 12/19/23&#58; Rescheduled to week of 19 AUG 23.<br></p><p>
+
+-UPDATE 10/17/23&#58; Rescheduled to week 12 AUG 23.<br></p><p>
+
+-UPDATE 6/1/23&#58; Rescheduled to week of 11 MAR 24; removed from TBD status.<br></p><p>
+
+-UPDATE 3/31/23&#58; Rescheduled to week of 27 NOV 23; placed in TBD status.<br></p><p>
+
+​-UPDATE 1/06/23&#58; Rescheduled to week of 04 SEP 23.<br></p><p>-
+
+UPDATE 12/9/22&#58; Placed in TBD status.</p><p>9/1/22 Added<br></p>","[""DEL""]","Herrmann, William Carl (Will) CAPT USN PRESINSURV VA BCH VA (USA);Dowd, Justin Augustus CAPT USN PRESINSURV VA BCH VA (USA)","Sprayberry, Luther F CIV USN PRESINSURV VA BCH VA (USA)","Y","[""NSWCPD""]",,
+"88","2/3/2025","CODY T-EPF 14, FCT (Su/M-F)","LITTLE CREEK, VA","CODY T-EPF 14, FCT (Su/M-F)","[""TRIAL""]","FCT","2/1/2025","2/6/2025",,"6","-UPDATE 1/10/25: Rescheduled to week of 03 FEB 25.
+
+-UPDATE 10/9/24: Rescheduled to week of 06 JAN 25, day zero changed to Su, Day 1 to 5 now 06-10 JAN 25.
+
+<p>-UPDATE 10/24/23&#58; Rescheduled to week of 04 NOV 24.<br></p><p>​-UPDATE&#160;10/17/2023&#58; Rescheduled to week of 21 OCT 24.<br></p><p>Added 8/31/23.<br></p>","[""RESCH""]","Herrmann, William Carl (Will) CAPT USN PRESINSURV VA BCH VA (USA)","Sprayberry, Luther F CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","T-EPF 14",
+"89","2/2/2025","CTG 56.1 (MI) (Tu-Th)","UAE","CTG 56.1 (MI) (Tu-Th)","[""B&C""]","B&C MI","2/1/2025","2/1/2025","6","1","Added 8/7/25.",,,,,,,
+"90","2/3/2025","USCG OARS Audit","2/3/2025","USCG OARS Audit","[""B&C""]","Boat Audit","2/2/2025","2/6/2025",,"5","Added 12/19/24.",,"Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,,,,
+"91","2/3/2025","YC 1477, YC 1490, YC 1570, YC 1571, YRBM 30, MI (Tu-Th)","BREMERTON, WA","YC 1477, YC 1490, YC 1570, YC 1571, YRBM 30, MI (Tu-Th)","[""B&C""]","B&C MI","2/3/2025","2/5/2025",,"3","-UPDATE 12/19/24: Deleted APL 62.
+
+-UPDATE 7/17/24: ADDED YC 1477, YC 1490, YC 1570, YC 1571.
+
+-UPDATE 7/12/24: LOCATION CHANGED TO BREMERTON, WA.
+
+<p>​ADDED 1/31/24.<br></p>",,"Ozereko, Jarrod Micah CDR USN NIWC PACIFIC CA (USA)",,"Y",,,
+"92","2/3/2025","DEL - DDG FLT IIA, MI (Tu-Th)","PEARL HARBOR, HI","DEL - DANIEL INOUYE DDG 118, MI (Tu-Th)","[""SURF""]","MI","2/3/2025","2/5/2025",,"3","-1/10/25: DELETED
+
+-UPDATE 12/12/24: Changed days of the inspection to Tu-Th.
+
+-UPDATE 10/1/24: Changed days of the inspection.
+
+<p>-UPDATE 10/17/2023&#58; Location changed to Pearl Harbor, HI.<br></p><p>​Added 7/19/2023.<br></p>","[""DEL""]","Concannon, Michael CAPT USN PRESINSURV VA BCH VA (USA)","Gilfillan, Thomas P CTR USN (USA)","Y","[""SWRMC""]","DDG 118","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG118_DANIEL_INOUYE?csf=1&web=1&e=rlD1ot"
+"93","2/10/2025","DDG FLT IIA, MI (Tu-F)","NORFOLK, VA","BAINBRIDGE DDG 96, MI (Tu-F)","[""SURF""]","MI (MSSI)","2/10/2025","2/13/2025",,"4","<div>-UPDATE 4/2/2024&#58; RESCHEDULED TO WEEK OF 10 FEB 25.<br></div><div><br></div><div>-UPDATE 3/13/24&#58; PLACED IN TBD STATUS DUE TO DELETION FROM INSURV SCHEDULE, UNDERGOING RESCHEDULING EFFORTS.<br></div><div><br></div><div>-UPDATE 12/19/23&#58; Rescheduled to week of 24 JUN 24.<br></div><div><br></div><div>-UPDATE 7/19/23&#58; Rescheduled to 15 APR 24.<br></div><div><br></div><div>UPDATE 11/18/22&#58; Removed from TBD status.<br></div>5/19/22 resched.&#160;3/16/22 Add<br>","[""RESCH""]","Cummins, Christopher R CAPT USN MESG TWO (USA)","Jones, Kevin A CTR USN PRESINSURV VA BCH VA (USA)","Y","[""MARMC""]","DDG 96","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG96_BAINBRIDGE?csf=1&web=1&e=dM2fp2"
+"94","2/10/2025","APL 66/68, YRBM 33 (MI) (Tu-Th)","NORFOLK, VA","APL 66/68, YRBM 33 (MI) (Tu-Th)","[""B&C""]","B&C MI","2/10/2025","2/12/2025",,"3","-UPDATE 8/28/24: Removed YR 29, added YRBM 33.
+
+-UPDATE 8/1/24: Rescheduled to week of 10 FEB 25.
+
+-UPDATE 7/3/24: REMOVED APL 29 AND APL 61.
+
+<p>​ADDED 4/3/24.<br></p>","[""RESCH""]",,,"Y",,,
+"95","2/10/2025","ACU 1 - LCU 1632/1648, MI (Tu-Th)","SAN DIEGO, CA","ACU 1 - LCU 1632/1648, MI (Tu-Th)","[""B&C""]","B&C MI","2/10/2025","2/12/2025",,"3","<p>​-UPDATE 4/9/2024&#58; ADDED LCU 1632.<br></p><p>ADDED 3/5/24.<br></p>",,"Ozereko, Jarrod Micah CDR USN NIWC PACIFIC CA (USA);Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)","Medina, Christopher A CIV USN PRESINSURV VA BCH VA (USA)",,,,
+"96","2/10/2025","LCAC 112 (AT) (Tu-F) New Orleans, LA","New Orleans, LA","LCAC 112 (AT) (Tu-F) New Orleans, LA","[""TRIAL""]","AT","2/10/2025","2/13/2025",,"4","-2/06/25: Resked to week of 10 FEB 25. removed from TBD status.
+
+-1/22/25: Resked to week of 20 JAN 25, placed in TBD.
+
+Added 12/26/2024.","[""RESCH""]","Seriki, Oluyemisi H CDR USN PRESINSURV VA BCH VA (USA)",,,"[""NSWCPD""]",,
+"97","2/17/2025","EODESU 1 Audit","Pearl Harbor, HI","EODESU 1 Audit","[""BOAT AUDIT""]","Boat Audit","2/16/2025","2/20/2025",,"5","Added 8/1/24.",,,,,,,
+"98","2/23/2025","Point Loma T-EPF 15 (FCT) (Su/M-F)","Mobile, AL","Point Loma T-EPF 15 (FCT) (Su/M-F)","[""TRIAL""]","FCT","2/21/2025","2/26/2025","20","6","Added 6/25/25.",,,,,"[""NSWCPD""]","T-EPF 15",
+"99","2/23/2025","Point Loma T-EPF 15 (FCT) (Su/M-F)","Mobile, AL","Point Loma T-EPF 15 (FCT) (Su/M-F)","[""TRIAL""]","FCT","2/21/2025","2/26/2025","20","6","Added 7/16/25.",,"Dowd, Justin Augustus CAPT USN PRESINSURV VA BCH VA (USA)","Sprayberry, Luther F CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","T-EPF 15",
+"100","2/24/2025","T-AO (24-28FEB) ","NORFOLK, VA","Lenthall T-AO 189 (24-28FEB) ","[""MSC""]","SMART","2/23/2025","2/27/2025",,"5","-UPDATE 9/11/24: Rescheduled to week of 24 FEB 25.
+
+-UPDATE 8/1/24: Changed days of inspection to 03-07 MAR 25.
+
+<p>-UPDATE 4/2/24&#58; RESCHEDULED TO WEEK OF 03 MAR 25.<br></p><p>-UPDATE 2/29/24&#58; DELETED FROM INSURV SCHEDULE, PLACED IN TBD STATUS DUE TO UNDERGOING RESCHEDULING EFFORTS.<br></p><p>​-UPDATE 1/31/24&#58; RESCHEDULED TO WEEK OF 18 MAR 24.<br></p><p>ADDED 1/16/24.<br></p>","[""RESCH""]","Hobbs, Ean P (Bruce Banner) CDR USN PRESINSURV VA BCH VA (USA);Lensegrav, Craig T CDR USN PRESINSURV VA BCH VA (USA);Dowd, Justin Augustus CAPT USN PRESINSURV VA BCH VA (USA)",,,,"T-AO 189",
+"101","2/24/2025","SSN (MI) (M-Th)","NORFOLK, VA","NEW HAMPSHIRE SSN 778 (MI) (M-Th)","[""SUB""]","MI","2/23/2025","2/26/2025",,"4","ADDED 7/24/24.",,"Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)","Bailey, Derek R LCDR USN NAVNUPWRTRAUMTS 1 SC (USA)",,"[""MARMC""]","SSN 778","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/FY25%20Case%20Files/FY25%20-%20SSN%20778%20(MI)?csf=1&web=1&e=2B5i6h"
+"102","2/24/2025","NBU 7 - LCAC 08, LCAC 82, LCU 1631, LCU 1633 (MI) (M-Th)","Sasebo, Japan","NBU 7 - LCAC 08, LCAC 82, LCU 1631, LCU 1633 (MI) (M-Th)","[""B&C""]","B&C MI","2/23/2025","2/26/2025",,"4","-1/10/25: Days changed to M-Th.
+
+Added 10/9/24.",,"Rashed, Mostafamohamed I CDR USN PRESINSURV VA BCH VA (USA)",,,,,
+"103","2/24/2025","DEL - LCS, MI (Tu-F)","SAN DIEGO, CA","DEL - GABRIELLE GIFFORDS LCS 10, MI (Tu-F)","[""SURF""]","MI (MSSI)","2/24/2025","2/27/2025",,"4","-UPDATE 12/30/24: Deleted from INSURV Schedule.
+
+-UPDATE 7/17/24: CHANGED DAYS OF THE INSPECTION TO Tu-F.
+
+<p>-UPDATE 4/3/24&#58; RESCHEDULED TO WEEK OF 24 FEB 25.<br></p><p>​Added 12/12/2023.<br></p>","[""DEL""]","Talaga, Michael T CIV USN PRESINSURV VA BCH VA (USA)","Jones, Kevin A CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","LCS 10","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS10_GABRIELLE_GIFFORDS?csf=1&web=1&e=brGNfe"
+"104","3/3/2025","DEL - T-AO, SMART","NORFOLK, VA","DEL - PATUXENT T-AO 201 (16-20DEC)","[""MSC""]","SMART","3/2/2025","3/6/2025","1","5","-UPDATE 2/18/25: Deleted from INSURV Schedule.
+
+-UPDATE 10/9/24: Rescheduled to week of 03 MAR 25.
+
+<p>​ADDED 4/3/2024<br></p>","[""DEL""]","Reed, Gary L CDR USN COMNAVRESFORCOM VA (USA)",,,,"T-AO 201",
+"105","3/3/2025","EOD 2 Audit","Panama City, FL","EOD 2 Audit","[""BOAT AUDIT""]","Boat Audit","3/2/2025","3/6/2025",,"5","Added 8/1/24.",,,,,,,
+"106","3/3/2025","LSD, MI (Tu-Th)","Little Creek, VA","OAK HILL, LSD 51, MI (Tu-Th)","[""SURF""]","MI","3/3/2025","3/5/2025","59","3","-UPDATE 01/27/25: Days changed to Tu-Th.
+
+-UPDATE 11/6/24: Days changed to M-F.
+
+-UPDATE 8/28/2024: Rescheduled to week of 03 MAR 25, location changed to Little Creek, VA.
+
+<p>​UPDATE 10/17/2023&#58; Rescheduled to week of 10 FEB 25.<br></p>","[""RESCH""]","Herrmann, William Carl (Will) CAPT USN PRESINSURV VA BCH VA (USA)","Gilfillan, Thomas P CTR USN (USA)","Y","[""MARMC""]","LSD 51","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LSD%20CASE/LSD51_OAK_HILL?csf=1&web=1&e=VeBQFw"
+"107","3/3/2025","YRBM 58 (AT) (Tu-Th)","Morgan City, LA","YRBM 58 (AT) (Tu-Th)","[""B&C""]","AT","3/3/2025","3/5/2025","10","3","-2/18/25: Rescheduled to week of 03 MAR 25.
+
+-1/10/25: Days changed to Tu-Th.
+
+- UPDATE 12/19/24: Rescheduled to week of 24 MAR 25.
+
+Added 10/16/2024.","[""RESCH""]","Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)","Vargas, Joaquin CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]",,
+"108","3/10/2025","DEL - Harvey C. Barnum Jr. DDG 124 (I&U) (M-F)","Bath, ME","DEL - Harvey C. Barnum Jr. DDG 124 (I&U) (M-F)","[""TRIAL""]","I&U","3/9/2025","3/13/2025",,"5","-2/6/2025: Deleted from INSURV Schedule.
+
+-UPDATE 1/22/25: Location changed to Bath, ME
+
+Added 12/19/24.","[""DEL""]","Evans, Paul C CIV USN PRESINSURV VA BCH VA (USA)","Meckley, Sean S CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","DDG 124","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG124_HARVEY_C_BARNUM_JR?csf=1&web=1&e=ulSNp4"
+"109","3/10/2025","DEL - YC 1584, YC 1667, YRBM 24/42/45, MI (Tu-Th)","MAYPORT, FL","DEL - YC 1584, YC 1667, YRBM 24/42/45, MI (Tu-Th)","[""B&C""]","B&C MI","3/10/2025","3/12/2025","8","3","-3/12/25: Deleted from INSURV Schedule.
+
+-UPDATE 10/16/2024: Rescheduled to week of 10 MAR 25.
+
+-UPDATE 7/12/24: REMOVED YRBM 21.
+
+-UPDATE 6/26/2024: ADDED YC 1584 AND YC 1667.
+
+<p>​-UPDATE 4/9/2024&#58; ADDED YRBM 24, and YRBM 42.<br></p><p>ADDED 4/3/24.<br></p>","[""DEL""]","Cleary, Brandon J LCDR USN PRESINSURV VA BCH VA (USA)","Manangan, Edgar F CIV USN PRESINSURV VA BCH VA (USA)","Y",,,
+"110","3/10/2025","YP 688, YP 692, YP 695, YP 700, YP 705, YP 706 (MI) (Tu-Th)","Annapolis, MD","YP 688, YP 692, YP 695, YP 700, YP 705, YP 706 (MI) (Tu-Th)","[""B&C""]","B&C MI","3/10/2025","3/12/2025","10","3","-UPDATE 2/18/25: Added YP 695, 700, removed YP 707.
+
+-UPDATE 12/19/24: Rescheduled to week of 10 MAR 25.
+
+Added 8/1/24.","[""RESCH""]","Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)","Holmes, Daniel M SCPO USN PRESINSURV VA BCH VA (USA)","Y",,,
+"111","3/17/2025","YD 254, MI (Tu-Th)","SAN DIEGO, CA","YD 254, MI (Tu-Th)","[""B&C""]","B&C MI","3/17/2025","3/19/2025","7","3","-UPDATE 7/12/24: RESCHEDULED TO WEEK OF 17 MAR 25.
+
+-UPDATE 7/3/2024: RESCHEDULED TO WEEK OF 10 FEB 25.
+
+-UPDATE 6/26/26: RESCHEDULED TO WEEK OF 28 OCT 24.
+
+<p>​-UPDATE 1/31/24&#58; RESCHEDULED TO WEEK OF 12 AUG 24.<br></p><p>ADDED 12/14/23.<br></p>","[""RESCH""]","Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)","Manangan, Edgar F CIV USN PRESINSURV VA BCH VA (USA)",,,,
+"112","3/17/2025","114SC0901 RSC-1, 114SC1201 RSC-4, MI (Tu-Th)","POINT LOMA, CA","114SC0901 RSC-1, 114SC1201 RSC-4, MI (Tu-Th)","[""B&C""]","B&C MI","3/17/2025","3/19/2025","10","3","-UPDATE 8/20/2024: Rescheduled to week of 17 MAR 25.
+
+-UPDATE 8/14/24: Deleted from INSURV Schedule.
+
+<p>-UPDATE 4/17/24&#58; RESCHEDULED TO WEEK OF 23 SEP 24.<br></p><p>-UPDATE 4/9/24&#58; DELETED FROM INSURV SCHEDULE, PLACED IN TBD STATUS DUE TO UNDERGOING RESCHEDULING EFFORTS.<br></p><p>​UPDATE 9/12/23&#58; Rescheduled to week of 08 APR 24.<br></p>","[""RESCH""]","Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)","Manangan, Edgar F CIV USN PRESINSURV VA BCH VA (USA)",,,,
+"113","3/17/2025","DDG FLT IIA, MI (Tu-F)","SAN DIEGO, CA","SPRUANCE DDG 111, MI (Tu-F)","[""SURF""]","MI (MSSI)","3/17/2025","3/20/2025","50","4","-UPDATE 7/17/24: CHANGED DAYS OF THE INSPECTION TO Tu-F.
+
+<p>​Added 7/19/2023.<br></p>",,"Talaga, Michael T CIV USN PRESINSURV VA BCH VA (USA)","Gilfillan, Thomas P CTR USN (USA)","Y","[""SWRMC""]","DDG 111","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG111_SPRUANCE?csf=1&web=1&e=IJ2Sxg"
+"114","3/17/2025","MSRON 10 x5 (MI) (Tu-Th)","Little Creek, VA","MSRON 10 x5 (MI) (Tu-Th)","[""B&C""]","B&C MI","3/17/2025","3/19/2025","5","3","Added 8/1/24.",,,"Manangan, Edgar F CIV USN PRESINSURV VA BCH VA (USA)",,,,
+"115","3/24/2025","EODESU 2 Audit","Little Creek, VA","EODESU 2 Audit","[""BOAT AUDIT""]","Boat Audit","3/23/2025","3/27/2025","1","5","Added 8/1/24.",,,,,,,
+"116","3/24/2025","Cody T-EPF 14 (RT) (M-F)","Little Creek, VA","Cody T-EPF 14 (RT) (M-F)","[""TRIAL""]","RT","3/23/2025","3/27/2025","6","5","Added 3/5/25.",,"Herrmann, William Carl (Will) CAPT USN PRESINSURV VA BCH VA (USA)","Sprayberry, Luther F CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","T-EPF 14","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/EPF%20CASE/EPF14_CODY?csf=1&web=1&e=qezdXW"
+"117","3/24/2025","Virginia Anne 87MNS1601 (MI) (Tu-Th)","New Foundland, Canada","Virginia Anne 87MNS1601 (MI) (Tu-Th)","[""B&C""]","B&C MI","3/24/2025","3/26/2025","10","3","-2/6/25: Location changed to New Foundland, Canada.
+
+-UPDATE 11/6/24: Rescheduled to week of 24 MAR 25.
+
+ADDED 7/25/24.","[""RESCH""]","Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)","Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,,,
+"118","3/31/2025","LCS, MI (Tu-F)","SAN DIEGO, CA","CINNCINATI LCS 20, MI (Tu-Th)","[""SURF""]","MI (MSSI)","3/31/2025","4/2/2025","45","3","-UPDATE 12/19/24: Changed days to Tu-Th.
+
+-UPDATE 7/25/24: RESCHEDULED TO WEEK OF 31 MAR 25.
+
+-UPDATE 7/17/24: CHANGED DAYS OF THE INSPECTION TO Tu-F.
+
+<p>​-UPDATE 7/19/23&#58; Rescheduled to week of 24 MAR 25.<br></p><p>Added 3/31/23.<br></p>","[""RESCH""]","Cummins, Christopher R CAPT USN MESG TWO (USA)","Jones, Kevin A CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","LCS 20","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS20_CINNCINATI?csf=1&web=1&e=VqtC51"
+"119","3/31/2025","192UB8701, 74MNS1001 (MI) (Tu-Th)","ANDROS ISLAND, BA","192UB8701, 74MNS1001 (MI) (Tu-Th)","[""B&C""]","B&C MI","3/31/2025","4/2/2025","10","3","ADDED 7/18/24.",,"Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)","Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,,,
+"120","3/31/2025","T-AKE, SMART (03-07APR)","WASHINGTON TBD","WASHINGTON CHAMBERS, T-AKE 11, SMART (03-07APR)","[""MSC""]","SMART","4/2/2025","4/6/2025","2","5","-UPDATE 3/5/2025: Rescheduled to week of 31 MAR 25.
+
+-UPDATE 9/4/2024: Rescheduled to week of 24 MAR 25.
+
+-UPDATE 8/1/24: Changed dates to 26-30 SEP 24
+
+<p>-UPDATE 8/3/23&#58; Rescheduled to week of 23SEP24.<br></p><p>​Added 8/29/22<br></p>","[""RESCH""]","Isaacson, Cary J CAPT USN PRESINSURV VA BCH VA (USA);Dowd, Justin Augustus CAPT USN PRESINSURV VA BCH VA (USA)",,,,"T-AKE 11",
+"121","4/7/2025","DEL - HARVEY C. BARNUM, JR, DDG 124, AT (Su/M-F)","BATH, ME","DEL - HARVEY C. BARNUM, JR, DDG 124, AT (Su/M-F)","[""TRIAL""]","AT","4/5/2025","4/10/2025",,"6","-2/6/25: Deleted from INSURV Schedule.
+
+-1/22/25: Placed in TBD status.
+
+-UPDATE 10/2/24: Rescheduled to week of 07 APR 25.
+
+-UPDATE 9/18/24: Deleted from INSURV Schedule.
+
+<p>-UPDATE 10/17/2023&#58; Rescheduled to week of 20 JAN 25.<br></p><p>​8/15/2022 Added<br></p>","[""DEL""]","Herrmann, William Carl (Will) CAPT USN PRESINSURV VA BCH VA (USA);Dowd, Justin Augustus CAPT USN PRESINSURV VA BCH VA (USA)","Meckley, Sean S CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","DDG 124","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG124_HARVEY_C_BARNUM_JR?csf=1&web=1&e=hQTUY8"
+"122","4/7/2025","AS SMART (M-Sa)","Guam","Frank Cable AS 40 (SMART) (M-Sa)","[""SURF""]","SMART","4/6/2025","4/11/2025","15","6","-1/22/25: Removed from TBD status resked to 07 APR 25.
+
+Added 9/11/24.","[""RESCH""]","Wines, Caleb P CDR USN PRESINSURV VA BCH VA (USA)",,"Y","[""SWRMC""]","AS 40",
+"123","4/7/2025","ACU 1 - 1646, MI (Tu-Th)","SAN DIEGO, CA","ACU 1 - 1646, MI (Tu-Th)","[""B&C""]","B&C MI","4/7/2025","4/9/2025","10","3","-UPDATE 9/25/24: Deleted LCU 1630.
+
+<p>​-UPDATE 4/9/24&#58; ADD LCU 1630.<br></p><p>ADDED 3/5/24.<br></p>",,"Austin, Howard J Jr CWO5 USN PRESINSURV VA BCH VA (USA)","Medina, Christopher A CIV USN PRESINSURV VA BCH VA (USA)",,,,
+"124","4/7/2025","MSRON 1/3 x2 (MI) (Tu-Th)","SAN DIEGO, CA","MSRON 1/3 x2 (MI) (Tu-Th)","[""B&C""]","B&C MI","4/7/2025","4/9/2025","6","3","-UPDATE 9/4/2024: Rescheduled to week of 07 APR 25.
+
+-UPDATE 8/20/2024: Rescheduled to week of 21 APR 25.
+
+ADDED 7/12/2024.","[""RESCH""]",,,,,,
+"125","4/7/2025","LCAC 90 (ESLEP AT) (Tu-W)","Camp Pendleton, CA","LCAC 90 (ESLEP AT) (Tu-W)","[""B&C""]","AT","4/7/2025","4/8/2025","1","2","Added 3/12/25.",,"Seriki, Oluyemisi H CDR USN PRESINSURV VA BCH VA (USA)",,,"[""NSWCPD""]",,
+"126","4/14/2025","EODESU 1 Audit","San Diego, CA","EODESU 1 Audit","[""BOAT AUDIT""]","Boat Audit","4/13/2025","4/17/2025","1","5","Added 8/1/24.",,,,,,,
+"127","4/14/2025","DEL - Pierre LCS 38 (I&U) (M-F)","Mobile, AL","DEL - Pierre LCS 38 (I&U) (M-F)","[""TRIAL""]","I&U","4/13/2025","4/17/2025","3","5","-4/16/25: Deleted from INSURV Schedule.
+
+-2/18/25: Rescheduled to week of 14 APR 25.
+
+Added 12/19/24.","[""DEL""]","Evans, Paul C CIV USN PRESINSURV VA BCH VA (USA)","Meckley, Sean S CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","LCS 38","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS38_PIERRE?csf=1&web=1&e=PbgMo6"
+"128","4/14/2025","LPD, MI (Tu-F)","NORFOLK, VA","NEW YORK LPD 21, MI (Tu-F)","[""SURF""]","MI (MSSI)","4/14/2025","4/17/2025","59","4","-UPDATE 01/27/25: Rescheduled to week of 4/14/25, Tu-F.
+
+-UPDATE 11/6/24: Inspection now M-F.
+
+<div>-UPDATE 10/17/23&#58; Rescheduled to week of 03 MAR 25.<br></div><div><br></div><div>UPDATE 9/26/23&#58; Deleted from schedule, placed in TBD status due to undergoing rescheduling efforts.<br></div><div><br></div><div>5/10/22&#160;resched. 5/3/22 Placed in TBD status,&#160;2/2/22 Added<br></div>","[""RESCH""]","Concannon, Michael CAPT USN PRESINSURV VA BCH VA (USA)","Gilfillan, Thomas P CTR USN (USA)","Y","[""MARMC""]","LPD 21","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LPD%20CASE/LPD21_NEW_YORK?csf=1&web=1&e=7SWK67"
+"129","4/14/2025","YDT 17, YDT 18 (MI) (Tu-Th)","PANAMA CITY, FL","YDT 17, YDT 18 (MI) (Tu-Th)","[""B&C""]","B&C MI","4/14/2025","4/16/2025","10","3","ADDED 7/18/24.",,"Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)","Encarnacion, Romeo J CIV USN PRESINSURV VA BCH VA (USA)",,,,
+"130","4/14/2025","Jack H. Lucas DDG 125 (RT) (W)","San Diego, CA","Jack H. Lucas DDG 125 (RT) (W)","[""TRIAL""]","RT","4/15/2025","4/15/2025","1","1","-UPDATE 11/26/24: Inspection is now only on W.
+
+Added 11/19/24.",,"Clayton, Jeffrey W LCDR USN PRESINSURV VA BCH VA (USA)","Sprayberry, Luther F CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","DDG 125","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG125_JACK_H_LUCAS?csf=1&web=1&e=NCNkpf"
+"131","4/20/2025","YD 259 (MI) (Tu-Th)","Silverdale WA","YD 259 (MI) (Tu-Th)","[""B&C""]","B&C MI","4/20/2025","4/22/2025","8","3","Added 8/7/25.",,,,,,,
+"132","4/21/2025","LPD, MI (Tu-F)","SAN DIEGO, CA","SOMERSET LPD 25, MI (Tu-F)","[""SURF""]","MI (MSSI)","4/21/2025","4/24/2025","59","4","-UPDATE 3/12/25: Rescheduled to week of 21 APR 25, removed from TBD status.
+
+-UPDATE 3/5/2025: Placed in TBD status.
+
+-UPDATE 12/19/24: Days changed to Tu-F.
+
+-UPDATE 10/23/24: Inspection now M-F.
+
+-UPDATE 8/14/24: Changed days of the inspection to Tu-F.
+
+<p>​-UPDATE 4/3/24&#58; RESCHEDULED TO WEEK OF 07 APR 25.<br></p><p>Added 12/14/23.<br></p>","[""RESCH""]","Talaga, Michael T CIV USN PRESINSURV VA BCH VA (USA)","Shalifoe, Koko M CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","LPD 25","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LPD%20CASE/LPD25_SOMERSET?csf=1&web=1&e=gWgyCk"
+"133","4/21/2025","T-AOE, SMART (22-27APR)","NORFOLK, VA","SUPPLY, T-AOE 6, SMART (22-27APR)","[""MSC""]","SMART","4/21/2025","4/26/2025","2","6","<p>​-UPDATE 5/7/2024&#58; LOCATION CHANGED TO NORFOLK, VA.<br></p><p>-UPDATE 4/3/24&#58; RESCHEDULED TO WEEK OF 21 APR 25.<br></p><p>Added 8/3/23<br></p>","[""RESCH""]","Byrd, Nathaniel J CDR USN PRESINSURV VA BCH VA (USA);Hobbs, Ean P (Bruce Banner) CDR USN PRESINSURV VA BCH VA (USA)",,,,"T-AOE 6",
+"134","4/21/2025","ACU 2 - LCU 1661, MI (Tu-Th)","LITTLE CREEK, VA","ACU 2 - LCU 1661, MI (Tu-Th)","[""B&C""]","B&C MI","4/21/2025","4/23/2025","10","3","<p>​Added 8/25/2023.<br></p>",,"Austin, Howard J Jr CWO5 USN PRESINSURV VA BCH VA (USA)","Austin, Howard J Jr CWO5 USN PRESINSURV VA BCH VA (USA)","Y",,,
+"135","4/21/2025","Kingsville LCS 36 (Watermist) (F)","San Diego, CA","Kingsville LCS 36 (Watermist) (F)","[""TRIAL""]","Watermist","4/24/2025","4/24/2025","1","1","Added 1/22/25.",,"Evans, Paul C CIV USN PRESINSURV VA BCH VA (USA)","Sprayberry, Luther F CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","LCS 36","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS36_KINGSVILLE?csf=1&web=1&e=qWK2vC"
+"136","4/28/2025","MSRON 2 x6 (MI) (Tu-Th)","VIRGINIA BEACH, VA","MSRON 2 x6 (MI) (Tu-Th)","[""B&C""]","B&C MI","4/28/2025","4/30/2025","6","3","-UPDATE 12/19/24: Rescheduled to week of 28 APR 25, days changed to Tu-Th.
+
+-UPDATE 8/28/24: Days of the inspection changed to M-W.
+
+ADDED 7/12/24.","[""RESCH""]",,"Vargas, Joaquin CIV USN PRESINSURV VA BCH VA (USA)",,,,
+"137","4/28/2025","LCAC 113 (AT) (Tu-F)","New Orleans, LA","LCAC 113 (AT) (Tu-F)","[""B&C""]","AT","4/28/2025","5/1/2025","10","4","Added 2/6/2025.",,"Seriki, Oluyemisi H CDR USN PRESINSURV VA BCH VA (USA)",,,"[""NSWCPD""]",,
+"138","4/28/2025","Warrior MCM 10 (MI) (Th/F-Su)","SASEBO, JAPAN","Warrior MCM 10 (MI) (Th/F-Su)","[""SURF""]","MI","4/30/2025","5/3/2025","20","4","ADDED 7/24/24.",,"Talaga, Michael T CIV USN PRESINSURV VA BCH VA (USA)","Shalifoe, Koko M CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SRF""]","MCM 10","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/MCM%20CASE/MCM10_WARRIOR?csf=1&web=1&e=BMCzpn"
+"139","5/5/2025","JOHN BASILONE, DDG 122, FCT (Su/M-F)","MAYPORT, FL","JOHN BASILONE, DDG 122, FCT (Su/M-F)","[""TRIAL""]","FCT","5/3/2025","5/8/2025","29","6","<p>-UPDATE 3/13/24&#58; RESCHEDULED TO WEEK OF 05 MAY 25.<br></p><p>-UPDATE 10/17/2023&#58; Rescheduled for week of 10 MAR 25.<br></p><p>​-UPDATE 8/25/23&#58; Deleted from schedule, undergoing rescheduling efforts.<br></p><p>8/15/22 Added<br></p>","[""RESCH""]","Herrmann, William Carl (Will) CAPT USN PRESINSURV VA BCH VA (USA)","Sprayberry, Luther F CIV USN PRESINSURV VA BCH VA (USA)","Y","[""NSWCPD""]","DDG 122","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG122_JOHN_BASILONE?csf=1&web=1&e=fUJysA"
+"140","5/5/2025","UCT 1 Audit","Little Creek, VA","UCT 1 Audit","[""BOAT AUDIT""]","Boat Audit","5/4/2025","5/8/2025","1","5","Added 8/1/24.",,,,,,,
+"141","5/5/2025","T-AKE SMART (05-09MAY)","Guam","Richard E. Byrd T-AKE 4 (05-09MAY)","[""MSC""]","SMART","5/4/2025","5/8/2025","1","5","-4/23/25: Rescheduled to week of 05 MAY 25.
+
+Added 3/20/25.","[""RESCH""]","Byrd, Nathaniel J CDR USN PRESINSURV VA BCH VA (USA)",,,,"T-AKE 4","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SMART%20CASE/T-AK_E_R/T-AKE4_BYRD?csf=1&web=1&e=naGnur"
+"142","5/5/2025","DEL - Cooperstown LCS 23 (RT) (Inport Only) (W)","MAYPORT, FL","DEL - Cooperstown LCS 23 (RT) (Inport Only) (W)","[""TRIAL""]","RT","5/6/2025","5/6/2025","6","1","-5/1/2025: Deleted from INSURV Schedule.
+
+-4/16/25: Executing this inspection in-port only.
+
+-3/20/25: Days changed to W only.
+
+-2/25/25: Rescheduled to week of 05 MAY 25.
+
+-UPDATE 11/13/24: Rescheduled to week of 21 APR 25.
+
+<p>-UPDATE 4/24/24&#58; RESCHEDULED TO WEEK OF 13 JAN 25.<br></p><p>-UPDATE 1/31/24&#58; RESCHEDULED TO WEEK OF 12 AUG 24.<br></p><p>​Added 11/21/23.<br></p>","[""DEL""]","Thompson, Antonio D LCDR USN PRESINSURV VA BCH VA (USA)","Sprayberry, Luther F CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","LCS 23","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS23_COOPERSTOWN?csf=1&web=1&e=7RamfH"
+"143","5/5/2025","YOS 33, YON 318, YON 324, YON 330, YOS 331 (MI) (W-F)","Portsmouth, VA","YOS 33, YON 318, YON 324, YON 330, YOS 331 (MI) (W-F)","[""B&C""]","B&C MI","5/6/2025","5/8/2025","5","3","-3/20/25: Days changed to W-F.
+
+Added 8/1/24.",,"Wines, Caleb P CDR USN PRESINSURV VA BCH VA (USA)",,"Y",,,
+"144","5/5/2025","YC 1672, YC 1673 (MI) (W-F)","Norfolk, VA ","YC 1672, YC 1673 (MI) (W-F)","[""B&C""]","B&C MI","5/6/2025","5/8/2025","3","3","-3/20/25: Days changed to W-F.
+
+Added 8/1/24.",,"Wines, Caleb P CDR USN PRESINSURV VA BCH VA (USA)",,"Y",,,
+"145","5/12/2025","EOD 1 Audit","WA","EOD 1 Audit","[""BOAT AUDIT""]","Boat Audit","5/11/2025","5/15/2025","1","5","Added 8/1/24.",,,,,,,
+"146","5/12/2025","YTT 11 (MI) (M-Th)","Silverdale, WA","YTT 11 (MI) (M-Th)","[""B&C""]","B&C MI","5/11/2025","5/14/2025","10","4","Added 4/16/25. ",,"Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)",,"Y",,,
+"147","5/12/2025","APL 62 (MI) (Tu-Th)","SILVERDALE, WA","APL 62 (MI) (Tu-Th)","[""B&C""]","B&C MI","5/12/2025","5/14/2025","10","3","-4/16/25: Removed YTT 11.
+
+- UPDATE 1/22/25: Removed YC 1674, YTT 10, added YTT 11.
+
+-UPDATE 12/19/24: Added APL 62 and YC 1674.
+
+-UPDATE 8/1/24: Rescheduled to 12 MAY 25.
+
+ADDED 7/18/24.","[""RESCH""]","Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)","Medina, Christopher A CIV USN PRESINSURV VA BCH VA (USA)","Y",,,
+"148","5/12/2025","SSBN (MI) (Tu-F)","BANGOR, WA","SSBN (MI) (Tu-F)","[""SUB""]","MI","5/12/2025","5/15/2025","13","4","-UPDATE 1/10/25: Rescheduled to week of 12 MAY 25.
+
+ADDED 7/24/24.","[""RESCH""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA);Concannon, Michael CAPT USN PRESINSURV VA BCH VA (USA)","Arnette, Johnny M III LCDR USN PRESINSURV VA BCH VA (USA)",,"[""NWRMC""]",,
+"149","5/19/2025","POINT LOMA T-EPF 15, AT (Su/M-F)","MOBILE, AL","POINT LOMA T-EPF 15, AT (Su/M-F)","[""TRIAL""]","AT","5/17/2025","5/22/2025","25","6","-4/16/25: Day zero being executed on 18 MAY 25.
+
+-2/25/25: Rescheduled to week of 19 MAY 25.
+
+-UPDATE 12/19/24: Rescheduled to week of 21 APR 25.
+
+-UPDATE 11/26/24: Rescheduled to week of 14 APR 25.
+
+-UPDATE 11/6/24: Days changed to Su/M-F.
+
+<p>​ADDED 12/19/23.<br></p>","[""RESCH""]","Herrmann, William Carl (Will) CAPT USN PRESINSURV VA BCH VA (USA);Wells, Christopher K CAPT USN PRESINSURV VA BCH VA (USA)","Meckley, Sean S CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","T-EPF 15","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/EPF%20CASE/EPF15_POINT_LOMA?csf=1&web=1&e=ZdWbLp"
+"150","5/19/2025","EODESU 2 Audit","Little Creek, VA","EODESU 2 Audit","[""BOAT AUDIT""]","Boat Audit","5/18/2025","5/22/2025","1","5","Added 8/1/24.",,,,,,,
+"151","5/19/2025","DEL - DDG FLT IIA, MI (Tu-Th)","SAN DIEGO, CA","DEL - STOCKDALE DDG 106, MI (Tu-Th)","[""SURF""]","MI (MSSI)","5/19/2025","5/21/2025","50","3","-5/1/25: Deleted from INSURV Schedule.
+
+-4/14/25: Days changed to Tu-Th.
+
+-UPDATE 3/12/25: Rescheduled to week of 19 MAY 25.
+
+-UPDATE 12/19/24: Days changed to Tu-F.
+
+<p>​ADDED 4/3/2025<br></p>","[""DEL""]","Talaga, Michael T CIV USN PRESINSURV VA BCH VA (USA)","Gilfillan, Thomas P CTR USN (USA)","Y","[""SWRMC""]","DDG 106","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG106_STOCKDALE?csf=1&web=1&e=Zk1hjz"
+"152","5/19/2025","SSN (MI) (Tu-F)","Groton, CT","Texas SSN 775 (MI) (Tu-F)","[""SUB""]","MI","5/19/2025","5/22/2025","13","4","3/20/25: Removed from TBD status, location changed to Groton, CT.
+
+Added 3/12/25.","[""RESCH""]","Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""NSSF GROTON""]","SSN 775","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/FY25%20Case%20Files/FY25%20-%20SSN%20775%20(MI)?csf=1&web=1&e=oJRiuI"
+"153","5/26/2025","T-AKE SMART (27-31MAY)","Norfolk, VA","Robert E. Peary T-AKE 5 (27-31MAY)","[""MSC""]","SMART","5/26/2025","5/30/2025","1","5","03/05/25: Location changed to Norfolk, VA.
+
+Added 2/18/25.",,"Byrd, Nathaniel J CDR USN PRESINSURV VA BCH VA (USA);Isaacson, Cary J CAPT USN PRESINSURV VA BCH VA (USA)",,,,"T-AKE 5",
+"154","5/26/2025","LSD, MI (W-Sa)","SAN DIEGO, CA","GERMANTOWN LSD 42, MI (W-Sa)","[""SURF""]","MI","5/27/2025","5/30/2025","53","4","-UPDATE 11/13/24: Rescheduled to week of 26 MAY 25, days changed to W-Sa.
+
+-UPDATE 8/14/24: Changed days of the inspection to Tu-F.
+
+<p>​Added 12/14/23.<br></p>","[""RESCH""]","Concannon, Michael CAPT USN PRESINSURV VA BCH VA (USA)","Shalifoe, Koko M CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","LSD 42","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LSD%20CASE/LSD42_GERMANTOWN?csf=1&web=1&e=9gVndb"
+"155","5/26/2025","ACU 5 - LCAC 64, LCAC 75 (MI) (W-F)","San Diego, CA","ACU 5 - LCAC 64, LCAC 75 (MI) (W-F)","[""B&C""]","B&C MI","5/28/2025","5/30/2025","10","3","Added 12/19/24. ",,"Seriki, Oluyemisi H CDR USN PRESINSURV VA BCH VA (USA)",,,,,
+"156","6/2/2025","KINGSVILLE, LCS 36, FCT (Su/M-F)","SAN DIEGO, CA","KINGSVILLE, LCS 36, FCT (Su/M-F)","[""TRIAL""]","FCT","5/31/2025","6/5/2025","27","6","-5/1/25: Rescheduled to week of 02 JUN 25.
+
+<p>​-UPDATE 4/17/24&#58; RESCHEDULED TO WEEK OF 12 MAY 25.<br></p>","[""RESCH""]","Dowd, Justin Augustus CAPT USN PRESINSURV VA BCH VA (USA)","Sprayberry, Luther F CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","LCS 36","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS36_KINGSVILLE?csf=1&web=1&e=NaKDEb"
+"157","6/2/2025","SSN (MI) (M-Th)","Norfolk, VA","OREGON SSN 793 (MI) (M-Th)","[""SUB""]","MI","6/1/2025","6/4/2025","13","4","-4/16/25: Removed from TBD status, location changed to Norfolk, VA.
+
+-4/1/25: Placed in TBD status.
+
+ADDED 7/24/24.",,"Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)","Luhn, John A LCDR USN PRESINSURV VA BCH VA (USA)",,"[""NSSF GROTON""]","SSN 793","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/SSN%20793%20CT?csf=1&web=1&e=2eVKhI"
+"158","6/2/2025","YC 1593, YC 1626, YC 1678, YC 1684, YC 1685 (MI) (Tu-Th)","PHILADELPHIA, PA","YC 1593, YC 1626, YC 1678, YC 1684, YC 1685 (MI) (Tu-Th)","[""B&C""]","B&C MI","6/2/2025","6/4/2025","5","3","ADDED 7/18/24.",,"Austin, Howard J Jr CWO5 USN PRESINSURV VA BCH VA (USA)","Encarnacion, Romeo J CIV USN PRESINSURV VA BCH VA (USA)","Y",,,
+"159","6/9/2025","Pierre LCS 38 (AT) (Su/M-F)","Mobile, AL","Pierre LCS 38 (AT) (Su/M-F)","[""TRIAL""]","AT","6/7/2025","6/12/2025","25","6","-5/7/25: Rescheduled to week of 09 JUN 25.
+
+-5/1/25: Rescheduled to week of 12 MAY 25.
+
+-2/18/25: Rescheduled to week of 28 APR 25.
+
+-UPDATE 11/26/24: Rescheduled to week of 14 APR 25.
+
+-UPDATE 10/16/2024: Rescheduled to week of 27 JAN 25.
+
+Added 9/11/24.","[""RESCH""]","Dowd, Justin Augustus CAPT USN PRESINSURV VA BCH VA (USA)","Sprayberry, Luther F CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","LCS 38","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS38_PIERRE?csf=1&web=1&e=5rdHHs"
+"160","6/9/2025","DEL - T-AKE, SMART (09-13JUN)","Chinhae, Korea","DEL - Alan Shepard T-AKE 3 (09-13JUN)","[""MSC""]","SMART","6/8/2025","6/12/2025","1","5","-5/28/25: Deleted from INSURV Schedule.
+
+-5/21/25: Placed in TBD status.
+
+5/1/25: Location changed to Chinhae, Korea.
+
+Added 7/31/24.","[""DEL""]","Lensegrav, Craig T CDR USN PRESINSURV VA BCH VA (USA)",,,,"T-AKE 3","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SMART%20CASE/T-AK_E_R/T-AKE3_ALAN_SHEPARD?csf=1&web=1&e=hvRA6N"
+"161","6/9/2025","MSRON 11 x3 (MI) (Tu-Th)","KETCHIKAN, AK","MSRON 11 x3 (MI) (Tu-Th)","[""B&C""]","B&C MI","6/9/2025","6/11/2025","6","3","ADDED 7/12/24.",,"Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)","Vargas, Joaquin CIV USN PRESINSURV VA BCH VA (USA)",,,,
+"162","6/9/2025","YRBM 59 (AT) (Tu-W)","Morgan City, LA","YRBM 59 (AT) (Tu-W)","[""B&C""]","AT","6/9/2025","6/10/2025","10","2","-5/21/25: Removed from TBD status.
+
+-5/7/25: Placed in TBD status.
+
+Added 3/12/25.",,"Klauer, Michael John CAPT USN SE RMC MAYPORT FL (USA)",,,"[""NSWCPD""]",,
+"163","6/9/2025","SSN (MI) (Tu-F)","Guam","Annapolis SSN 760 (MI) (Tu-F)","[""SUB""]","MI","6/9/2025","6/12/2025","13","4","Added 3/27/25.",,"Lancaster, Kristopher A CAPT USN PRESINSURV VA BCH VA (USA)",,,"[""HRMC""]","SSN 760","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/SUB%20CASE/SSN/FY25%20Case%20Files/FY25%20-%20SSN%20760%20(MI)?csf=1&web=1&e=iSFOcX"
+"164","6/16/2025","MSRON 10 X 5, MI (M-Tu)","Jacksonville, FL","MSRON 10 X 5, MI (M-Tu)","[""B&C""]","B&C MI","6/15/2025","6/16/2025","6","2","-1/22/25: Location changed to Jacksonville, FL.
+
+-UPDATE 12/19/24: Rescheduled to week of 16 JUN 25, days changed to M-Tu.
+
+<p>​-UPDATE 1/2/24&#58; RESCHEDULED TO WEEK OF 28 APR 25.<br></p><p>Added 6/15/23.<br></p>
+","[""RESCH""]","Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,,,,
+"165","6/23/2025","Cooperstown LCS 23 (RT) (M)","Mayport, FL","Cooperstown LCS 23 (RT) (M)","[""TRIAL""]","RT","6/22/2025","6/22/2025","4","1","-6/11/25: Days changed to Monday only.
+
+-5/21/25: Days changed to M-Tu.
+
+-5/14/25: Days changed to Monday only.
+
+Added 4/16/25.",,"Gilbert, Damon Charles CIV USN PRESINSURV VA BCH VA (USA)","Sprayberry, Luther F CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","LCS 23","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LCS%20CASE/LCS23_COOPERSTOWN?csf=1&web=1&e=1jLJqL"
+"166","6/23/2025","DDG FLT IIA, MI (Tu-F)","SAN DIEGO, CA","MUSTIN DDG 89, MI (Tu-F)","[""SURF""]","MI (MSSI)","6/23/2025","6/26/2025","50","4","-3/27/25: Rescheduled to week of 23 JUN 25, removed from TBD status.
+
+-UPDATE 3/12/25: Placed in TBD status.
+
+-UPDATE 12/19/24: Days changed to W-F.
+
+-UPDATE 11/19/24: Rescheduled to week of 19 MAY 25. 
+
+<p>​Added 3/31/23.<br></p>","[""RESCH""]","Concannon, Michael CAPT USN PRESINSURV VA BCH VA (USA);Wells, Christopher K CAPT USN PRESINSURV VA BCH VA (USA)","Gilfillan, Thomas P CTR USN (USA)","Y","[""SWRMC""]","DDG 89","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/DDG%20CASE/DDG89_MUSTIN?csf=1&web=1&e=RVqRTo"
+"167","6/23/2025","114SC0903 RSC-3 (MI) (Tu)","POINT LOMA, CA","114SC0903 RSC-3 (MI) (Tu)","[""B&C""]","B&C MI","6/23/2025","6/23/2025","10","1","6/4/25: Days changed to Tu only.
+
+-1/22/25: Days changed to Th-F.
+
+ADDED 7/18/24.",,"Bruce-Ross, Christopher W CIV USN PRESINSURV VA BCH VA (USA)",,"Y",,,
+"168","6/23/2025","APL 65, APL 69 (MI) (W-Th)","SAN DIEGO, CA","APL 65, APL 69 (MI) (W-Th)","[""B&C""]","B&C MI","6/24/2025","6/25/2025","10","2","-6/4/25: Days changed to W-Th.
+
+-1/22/25: Days changed to Tu-W.
+
+ADDED 7/12/2024.",,"Austin, Howard J Jr CWO5 USN PRESINSURV VA BCH VA (USA)","Manangan, Edgar F CIV USN PRESINSURV VA BCH VA (USA)","Y",,,
+"169","6/23/2025","T-ESD, SMART (25-29JUN)","Norfolk, VA","Montford Point T-ESD 1 (25-29JUN)","[""MSC""]","SMART","6/24/2025","6/28/2025","1","5","Added 5/1/25.",,"Lensegrav, Craig T CDR USN PRESINSURV VA BCH VA (USA);Byrd, Nathaniel J CDR USN PRESINSURV VA BCH VA (USA)",,,,"T-ESD 1",
+"170","6/30/2025","TBD - John F. Kennedy CVN 79 (AT) (Su/M-F)","Norfolk, VA","TBD - John F. Kennedy CVN 79 (AT) (Su/M-F)","[""TRIAL""]","AT","6/28/2025","7/3/2025","69","6","-3/12/25: Placed in TBD status.
+
+-UPDATE 10/23/24: Rescheduled to week of 30 JUN 25.
+
+-UPDATE 9/11/24: Rescheduled to week of 26 JAN 26.
+
+<p>​ADDED 4/3/24.<br></p>","[""TBD""]",,"Meckley, Sean S CIV USN PRESINSURV VA BCH VA (USA)",,"[""NSWCPD""]","CVN 79","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/CVN%20CASE/CVN79_JOHN_F_KENNEDY?csf=1&web=1&e=CONY6r"
+"171","6/30/2025","LSD, MI (M-W)","SAN DIEGO, CA","HARPERS FERRY LSD 49, MI (M-W)","[""SURF""]","MI (MSSI)","6/29/2025","7/1/2025","59","3","-3/5/25: Rescheduled to 30 JUN 25, days changed to M-W.
+
+-1/22/25: resked to occur 29 JUN - 02 JUL 25, removed from TBD status.
+
+-1/10/25: Placed in TBD status.
+
+-UPDATE 11/13/24: Rescheduled to week of 26 MAY 25, changed days to W-Sa.
+
+-UPDATE 8/14/24: Changed days of the inspection to Tu-F.
+
+<p>​Added 12/14/23.<br></p>","[""RESCH""]","Talaga, Michael T CIV USN PRESINSURV VA BCH VA (USA)","Shalifoe, Koko M CTR USN PRESINSURV VA BCH VA (USA)","Y","[""SWRMC""]","LSD 49","/:f:/r/sites/httpsflankspeed.sharepoint-mil.ussitesUSFF-INSURV-HQ-CUI/LSD%20CASE/LSD49_HARPERS_FERRY?csf=1&web=1&e=M6aiqa"
