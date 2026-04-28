@@ -1,0 +1,16 @@
+sample file
+
+let
+    Source = Excel.Workbook(Parameter1, null, true),
+    UI_LIST_Sheet = Source{[Item="UI_LIST",Kind="Sheet"]}[Data],
+    #"Removed Other Columns" = Table.SelectColumns(UI_LIST_Sheet,{"Column2", "Column3", "Column4", "Column5", "Column11", "Column14", "Column15", "Column16", "Column17", "Column18"}),
+    TargetLocation = #"Removed Other Columns"{0}[Column11],
+    Custom1 = #"Removed Other Columns",
+    #"Added Custom" = Table.AddColumn(Custom1, "Location", each #"TargetLocation"),
+    #"Removed Top Rows" = Table.Skip(#"Added Custom",2),
+    #"Promoted Headers" = Table.PromoteHeaders(#"Removed Top Rows", [PromoteAllScalars=true]),
+    Custom2 = Table.RenameColumns(#"Promoted Headers", {
+        {Table.ColumnNames(#"Promoted Headers"){List.Count(Table.ColumnNames(#"Promoted Headers")) -1}, "LOCATION"}}),
+    #"Filtered Rows" = Table.SelectRows(Custom2, each ([LAST NAME] <> null and [LAST NAME] <> "Last Name"))
+in
+    #"Filtered Rows"
